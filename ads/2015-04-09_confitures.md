@@ -1,0 +1,5 @@
+	title: confitures originales
+	featured:
+---
+
+- **Confitures paysannes et originales :** Vous en avez assez des sempiternelles parfums fraise, framboise, et cherchez des produits originaux,  Céline Thomas a ce qu’il vous faut. Productrice à Osmoy Saint Valéry de fruits frais et transformés, confiture et jus, peut livrer des Amap. Liste des produits dont tous les fruits proviennent du verger et ne sont absolument pas traités. Environ 30 parfums de confitures, par exemple : cynorhodon, cornouille, mûre, groseille, rhubarbe /fraise, courge-citron…). Elle a aussi quelques fruits frais en saison : Framboise, groseille, cassis, rhubarbe groseille à maquereau, framboise jaune, fraise, pomme, poire, noix, noisette, mûre, nèfle, coing, timberry… Plus d’infos sur leur site : <http://vergerdesprouelles.blogspot.fr/> Contact : Céline Thomas 06 78 59 17 57 <vergerdesprouelles@orange.fr> 
