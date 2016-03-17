@@ -1,11 +1,17 @@
-Title: Le réseau des AMAP de Haute&#8209;Normandie
-Date: 2014/09/11
+    Title: Le réseau des AMAP de Haute&#8209;Normandie
+    Date: 2014/09/11
 ---
 
-Les partenariats en AMAP, initiés en 2003 en région Provence-Alpes-Côte d'Azur, sont apparus en 2004 en région Haute-Normandie. La progression du nombre d'AMAP continue. Nous en dénombrons 54 à la fin 2014 :
-•	39 en Seine-Maritime dont 21 sur le territoire Créa et 10 dans la Pointe de Caux,
-•	15 dans l’Eure,
-soit un total de 1900 familles concernées ; deux Amap en projets pour 2015 ! Et près de 92 producteurs répartis sur le territoire. 
+Les partenariats en AMAP, initiés en 2003 en région Provence-Alpes-Côte d'Azur, sont apparus en 2004 en région Haute-Normandie. La progression du nombre d'AMAP continue. 
+
+Photographie des Amap au 31 dec 2015
+Nous en dénombrons 58 sur le territoire haut-normand :
+ - 44 en Seine-Maritime (dont 25 sur le territoire de la Métropole rouennaise),
+ - 15 dans l’Eure,
+soit un total de + de 2 000 familles concernées (en moyenne 35 amapiens par amap) et 1530 rien qu’en seine-maritime.
+ - Et 4  Amap en projets pour 2016 ! Plus de 100 producteurs répartis sur le territoire.
+
+
 
 Chacun de ces groupes de consom'acteurs développe un ou plusieurs partenariats avec des maraîchers, des éleveurs, des producteurs/transformateurs de lait, etc.
 
