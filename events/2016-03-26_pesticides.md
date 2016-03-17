@@ -7,7 +7,7 @@ Des dégustations de produits bio et locaux, des animations accompagneront la di
 
 Nous vous donnons rendez-vous à l'angle de la rue St Lo et de la rue Socrate (entre le  lycée Camille St Saens et l'espace du palais) à partir de 14 h 30.
 
-![panier](images/panier.jpg)
+![Panier de légumes](content/events/images/panier.jpg)
     
 
     
