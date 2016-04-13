@@ -8,7 +8,7 @@ Des dégustations de produits bio et locaux, des animations accompagneront la di
 Nous vous donnons **rendez-vous à l'angle de la rue St Lo et de la rue Socrate à Rouen** (entre le  lycée Camille St Saens et l'espace du palais) à partir de 14 h 30. 
 Pour en savoir plus : [cliquez içi](http://www.semaine-sans-pesticides.fr/events/greenpeace-rouen-le-reseau-des-amap-de-haute-normandie-et-alternatiba-unis-contre-les-pesticides/)
 
-![Panier de légumes](content/events/images/panier.jpg)
+![Panier de legumes](content/events/images/panier.jpg)
     
 
     
