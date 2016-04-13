@@ -3,6 +3,7 @@
 
  - [Les recettes de stéphanie](http://duchampauxassiettes.over-blog.com/2015/04/les-recettes.html)
  - [Le Réseau national des Amap](http://miramap.org/spip.php)
+ - [Le Réseau des Amap de Basse-Normandie](http://www.amap-bn.fr/)
  - [Les fermes Terre de liens en Normandie](http://www.terredeliens.org/-les-fermes-terre-de-liens-?id_mot=158)
  - [Le réseau bio normand](http://www.bio-normandie.org)
  - [Les défis ruraux](http://www.defis-ruraux.fr)
