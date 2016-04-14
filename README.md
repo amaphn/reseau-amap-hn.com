@@ -65,7 +65,10 @@ Créer une liste numérotée    |` 1. Un élément de liste` | <ol><li>Un élém
 
 
 ### 3.b Ajouter des images
-Les images doivent être transférées dans le dossier `post/images`
+Pour utiliser vos propre images, ajoutez les dans le dossier `post/images`.  
+Pour insérer une image dans un article utilisez l'adresse `/content/type-de-contenu/images/nom-de-l-image.jpg`.
+
+Par exemple `![Tomates et basilic font bon ménage](/content/post/images/plants-de-tomates-et-basilic.jpg)`
 
 ### 3.c Les variables personnalisées
 
