@@ -1,0 +1,4 @@
+title: formation vente directe avec Espoir rural
+    ---
+
+•	**Mercredi 29 juin de 9h 30 à 17 h,  formation Espoir Rural et ARDEAR** " produire, transformer, commercialiser en vente directe et en vivre économiquement et humainement" avec le témoignage de deux paysans du Pays Basque, territoire où le projet d'agriculture paysanne est le plus « abouti ». Maryse Cachenaut paysanne sur une ferme de brebis, laitières, présidente de Lurrama et Michel Berhocoïrigoin paysan, ancien secrétaire général de la Confédération paysanne, président fondateur de la Chambre d'agriculture alternative du Pays basque. Fin de cette formation les mardi 30 aout (intervention du réseau des Amap) et 13 septembre – Ouvertes à tous, contact : ardear.hn@orange.fr - Lieu : Allouville-Bellefosse.
