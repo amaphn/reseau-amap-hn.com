@@ -70,9 +70,67 @@ Pour insérer une image dans un article utilisez l'adresse `/content/type-de-con
 
 Par exemple `![Tomates et basilic font bon ménage](/content/post/images/plants-de-tomates-et-basilic.jpg)`
 
-### 3.c Les variables personnalisées
+### 3.c Ajout de médias externe
+Vous pouvez insérer du contenu provenant d'autres services, comme des vidéos, des images ou du contenu "riche".  
 
-### 3.d Le HTML
+Par exemple voici une image provenant de Wikimedia externe : 
+<pre>
+![Bourgeons, fleurs et fruits de citron sur la même plante](https://upload.wikimedia.org/wikipedia/commons/7/75/Citrus_limonum_3.JPG)</pre>
+
+Ce qui donneras : 
+
+![Bourgeons, fleurs et fruits de citron sur la même plante](https://upload.wikimedia.org/wikipedia/commons/7/75/Citrus_limonum_3.JPG)
+
+Vous pouvez également intégrer du "code incorporé" provenenant de divers services et réseaux sociaux d'internet.
+
+Chaque service (Vimeo, Youtube, Tweeter, etc.) proposent un code d'intégration destiné au partage de contenu.
+Voici par exemple le code d'intégration copier depuis une video de chez Vimeo : 
+<pre>
+&#x3C;iframe
+ src=&#x22;https://player.vimeo.com/video/111693630?color=8DC798&#x26;byline=0&#x26;portrait=0&#x22;
+ width=&#x22;744&#x22;
+ height=&#x22;419&#x22;
+ frameborder=&#x22;0&#x22;
+ webkitallowfullscreen mozallowfullscreen allowfullscreen&#x3E;
+&#x3C;/iframe&#x3E;
+</pre>
+
+Donnera : 
+
+<iframe
+	src="https://player.vimeo.com/video/111693630?color=8DC798&byline=0&portrait=0"
+	width="744"
+	height="419"
+	frameborder="0"
+	webkitallowfullscreen mozallowfullscreen allowfullscreen>
+</iframe>
+
+
+Un autre exemple avec du contenu provenant de tweeter : 
+<pre>
+&#x3C;blockquote class=&#x22;twitter-tweet&#x22; data-cards=&#x22;hidden&#x22; lang=&#x22;fr&#x22;&#x3E;
+&#x3C;p lang=&#x22;fr&#x22; dir=&#x22;ltr&#x22;&#x3E;A &#x3C;a href=&#x22;https://twitter.com/hashtag/Dijon?src=hash&#x22;&#x3E;#Dijon&#x3C;/a&#x3E; :
+l&#x26;#39;&#x3C;a href=&#x22;https://twitter.com/hashtag/AMAP?src=hash&#x22;&#x3E;#AMAP&#x3C;/a&#x3E; des
+&#x3C;a href=&#x22;https://twitter.com/hashtag/Bourroches?src=hash&#x22;&#x3E;#Bourroches&#x3C;/a&#x3E; f&#xEA;te ses 10 ans
+&#x3C;a href=&#x22;https://twitter.com/hashtag/agriculture?src=hash&#x22;&#x3E;#agriculture&#x3C;/a&#x3E;
+&#x3C;a href=&#x22;http://t.co/XoMVIcBWks&#x22;&#x3E;http://t.co/XoMVIcBWks&#x3C;/a&#x3E;
+&#x3C;a href=&#x22;http://t.co/vnvadSxRt2&#x22;&#x3E;pic.twitter.com/vnvadSxRt2&#x3C;/a&#x3E;
+&#x3C;/p&#x3E;
+&#x26;mdash; France3 Bourgogne (@F3Bourgogne) &#x3C;a href=&#x22;https://twitter.com/F3Bourgogne/status/609769411877175296&#x22;&#x3E;13 Juin 2015&#x3C;/a&#x3E;&#x3C;/blockquote&#x3E;
+&#x3C;script async src=&#x22;//platform.twitter.com/widgets.js&#x22; charset=&#x22;utf-8&#x22;&#x3E;&#x3C;/script&#x3E;</pre>
+
+Donnera : 
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="fr">
+<p lang="fr" dir="ltr">A <a href="https://twitter.com/hashtag/Dijon?src=hash">#Dijon</a> :
+l&#39;<a href="https://twitter.com/hashtag/AMAP?src=hash">#AMAP</a> des
+<a href="https://twitter.com/hashtag/Bourroches?src=hash">#Bourroches</a> fête ses 10 ans
+<a href="https://twitter.com/hashtag/agriculture?src=hash">#agriculture</a>
+<a href="http://t.co/XoMVIcBWks">http://t.co/XoMVIcBWks</a>
+<a href="http://t.co/vnvadSxRt2">pic.twitter.com/vnvadSxRt2</a>
+</p>
+&mdash; France3 Bourgogne (@F3Bourgogne) <a href="https://twitter.com/F3Bourgogne/status/609769411877175296">13 Juin 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
