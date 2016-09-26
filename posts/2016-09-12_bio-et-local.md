@@ -2,7 +2,7 @@
     Date: 2016/09/12
     Author: Le Réseau des AMAP de Haute&#x2011;Normandie
     Cover: bio-et-local-affiche-fnab-2016.jpg
-    Excerpt: Manger bio et local toute l'année dans votre entreprise ou collectivtés ??
+    Excerpt: Manger bio et local toute l'année dans votre entreprise ou collectivités ?? et 199 autres événements en normandie ...
     featured:
     ---
    
@@ -13,5 +13,5 @@ proposé par Le Réseau des Amap et Terre de rencontre.
 
 Rendez-vous : 14h - salle Ostermeyer - [11, avenue Pasteur à Rouen](http://www.openstreetmap.org/#map=19/49.44445/1.07836)
 
-La liste complète des évènements "Bio et local, c'est l'idéal", nombreuses portes ouvertes chez des producteurs vendant en AMAP. [Téléchargez le programme pour plus d'informations](http://www.bio-normandie.org/wp-content/uploads/2015/09/PROGRAMME-NORMANDIE-BEL-MAIL.pdf).
+et 199 autres événements en normandie, liste complète des évènements "Bio et local, c'est l'idéal", par exemple de nombreuses portes ouvertes chez des producteurs vendant en AMAP. [Téléchargez le programme pour plus d'informations](http://www.bio-normandie.org/wp-content/uploads/2015/09/PROGRAMME-NORMANDIE-BEL-MAIL.pdf). Démarage de cette opération le week-end du 17 septembre 2016.
 
