@@ -1,76 +1,10 @@
-	title: Gestionnaire de contenu
-	description: Documentation sur le gestionnaire de contenu FlatFile
-	author: Ziopod
-	date: 2015/07/10
-	license: {"name":"Creative commons CC BY 4.0", "url":"http://creativecommons.org/licenses/by/4.0/"}
+    title: Formatter les données
+    ---
 
----
-
-Flatfile est un gestionnaire de contenu sans base de données (fichier plat). Les données sont représentées sous formes de dossiers et de fichiers. Le document que vous consultez en ce moment est lui-même un fichier FlatFile. Dans cette documentation, nous partirons du principe que vous êtes familier avec les bases de l'informatique (créer un dossier et un fichier, nommer un fichier, afficher et changer une extension de fichier, naviguer sur internet, etc.)
-
-<!--more-->
-
-**Sommaire**
-
- 1. [Gestion du contenu](#gestion-de-contenu)
  2. [Les métas données](#metas-donnees)
  3. [Les types de données](#types-de-donnees)
  4. [Lier des données](#lier-des-donnees)
 
-
-## Gestion de contenu {#gestion-de-contenu}
-
-Flatfile permet de gérer les données de votre site internet sous forme de [fichiers texte](http://fr.wikipedia.org/wiki/Fichier_texte) (appelé aussi *fichier texte brut*). Ces fichiers supportent des métas données et le language de balisage léger [Markdown](http://fr.wikipedia.org/wiki/Markdown).   
-Pour ajouter du contenu à votre site, il vous faut ajouter un fichier de donnée dans le dossier `content`. Ce fichier texte devras comporter l'extension `.md`
-
-### Classer le contenu
-Tout votre contenu sera géré dans un repertoire principal nommé `content`. Ensuite viennent des sous-repertoires permettant de classer les données par type; par exemple le dossier `pages` pour les pages uniques de votre site (comme la page "informations") ou le dossier `posts` pour les articles d'un blog.
-
-Par exemple pour un article de blog, on créé le fichier de contenu suivant : 
-
-<pre>
-| content
-	| posts
-		2015-07-12_bonjour-je-suis-un-article.md</pre>
-
-L'article sera automatiquement disponible à l'adresse structuré de cette manière : 
-
-<pre>
-	http://mon-comaine.com/post/bonjour-je-suis-un-article</pre>
-
-La portion d'adresse situé juste après le nom de domaine permet de determiner automatiquement un type de données; dans notre exemple nous utilisons `post`, le fichier seras cherché dans le repertoire `posts` (au pluriel) et sera interprété comme une donnée de type `post` (donnée de type "article de blog").
-
-L'identifiant unique de l'article (que l'on appel également "slug") est la portion d'adresse située après; dans notre exemple nous indiquons `bonjour-je-suis-un-article`, le fichier correspondant à ce nom sera cherché.
-
-### Tri et horodatage
-
-Vous remarquerez que dans l'exemple précédent, le nom du fichier possède une date `2015-07-12_`, c'est un prefixe de tri; En utilisant le signe `_` "tiret bas", vous indiquez à FlatFile un prefixe qui pourra servir à présicer une date de publication ou simplement modifier l'ordre de tri.
-
-Par exemple, des fichiers nommées comme ceci s'afficherons dans l'ordre alphabétique: 
-
-<pre>
-| pages
-	a-propos.md
-	accueil.md
-	informations.md</pre>
-
-Si nous voulons changer l'ordre d'affichage, nous pouvons les nommer de cette manière : 
-
-<pre>
-| pages
-	1_accueil.md
-	2_a-propos.md
-	3_informations.md</pre>
-
-Pour des données de type blog, nous classerons les articles de cette manière : 
-
-<pre>
-| posts
-	2014-12-12_bienvenue.md
-	2015-01-01_bonne-annee.md
-	2015-03-21_les-fleurs-du-printemps.md</pre>
-
-Les prefixes de type date serons très utile pour afficher les articles par ordre de publication et pour mettre en place des fonctionnalités de tri; par exemple pour générer des archives chronologique, ou pour créer un gestionnaire d'événements. 
 
 ### Fichier de contenu
 
@@ -289,5 +223,3 @@ l&#39;<a href="https://twitter.com/hashtag/AMAP?src=hash">#AMAP</a> des
 </p>
 &mdash; France3 Bourgogne (@F3Bourgogne) <a href="https://twitter.com/F3Bourgogne/status/609769411877175296">13 Juin 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[&#10094; Sommaire de la documentation]({{base_url}}docs/index)
