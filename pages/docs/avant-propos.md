@@ -4,10 +4,10 @@
 Avant toute chose il convient de présenter les méthodes et technologies choisies pour l'édition du contenu rédactionnel du site du réseau régionnal des AMAP de Normandie.
 
 ## Motivations
-Les choix technologique et logiciels sont guidé par les critères suivant.
+Les choix technologique et logiciels sont guidés par les critères suivant.
 
 ### Simplicité d'usage.
-La volonté de ne pas créer de barrière elitistes à la gestion du contenu éditoriale et la maintenance technique du système de publication. C'est choix doivent s'accomoder d'une participation collaborative, accèssible au plus de personnes possible.
+La volonté de ne pas créer de barrière elitistes à la gestion du contenu éditoriale et la maintenance technique du système de publication. Ces choix doivent s'accomoder d'une participation collaborative, accèssible au plus de personnes possible.
 
 ### Périnnité de la technologie
 Limité la maintenance et l'entretien du système permet de focalisé les ressources sur les points les plus importants de la publication de contenu; à savoir, la mise en place et la tenue d'ne stratégie de communication, la création et la publication de conten.
