@@ -1,6 +1,6 @@
 Title: L'atelier cuisine en image ! 
 
-Date: 2016/10/04
+Date: 2016/09/04
 Author: Le Réseau des AMAP de Haute&#x2011;Normandie
 Cover: atelier_aout_16.jpg
 Excerpt: vous n'avez pu venir à l'atelier cuisine à la maison St Sever l'été dernière, Alain était là !
