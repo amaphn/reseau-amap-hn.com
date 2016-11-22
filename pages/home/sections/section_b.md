@@ -3,9 +3,9 @@
 
 # Les engagements
 
-La charte des AMAP impose aux acteurs un echange direct et équitable, la relation direct et transparente des consommateur de des paysans permettent de garantir une agricuture souverainne, de saison, saine, réspectueus de la biodiversité et équitable.
+La charte nationale des AMAP cadre ce système d'échange organisé par des bénévoles. Le consom'acteur s'engage sous la forme d'un abonnement réglé à l’avance au producteur, qui s'engage à fournir des produits de son exploitation, produits sans pesticide ni engrais chimiques de synthèse.
 
 <nav markdown=1>
- - [Le rôle du réseau des AMAP]()
- - [La charte nationale des AMAP](http://www.reseau-amap.org/docs/chartedesamap.PDF)
+ - [La charte nationale des AMAP](content/downloads/charte-des-amap-mars-2014.pdf)
+ - [Le réseau régionnal des AMAP de Haute-Normandie](/informations)
 </nav>

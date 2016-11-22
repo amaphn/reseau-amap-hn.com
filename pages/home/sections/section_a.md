@@ -2,9 +2,6 @@
 ---
 # Les avantages
 
-En regroupant des consommateurs autours de produteurs paysans, les AMAP permettent un échange direct sans intermédiaires; garantissant la qualité sanitaire et qualitatif des produits tout en maintnant une souverainneté alimentaire.
+En regroupant des consommateurs autours de petits producteurs, les AMAP permettent un échange sans intermédiaire, garantissant une sécurité financière pour ces agriculteurs partenaires. Et pour le consommateur le plaisir d’avoir des produits locaux, frais, de saisons.
 
-<nav markdown=1>
- - [La souverainneté alimentaire]()
- - [La qualité alimentaire en AMAP]()
- </nav>
+Il participe au maintien d'une souveraineté alimentaire sur le territoire Normand.
