@@ -9,7 +9,11 @@ Association loi 1901
 </adress>
 
 <http://reseau-amap-hn.org>  
-<contact@reseau-amap-hn.com>
+<contact@reseau-amap-hn.com>  
+<a href="https://www.facebook.com/amap.hautenormandie" class="icon">
+	<span class="icon-facebook"></span>
+	@amap.hautenormandie
+</a>
 
 
  - [Statuts de l'association]({{base_url}}statuts-de-lassociation)
