@@ -137,12 +137,7 @@ Elle statue à la majorité d'au moins les deux tiers des membres présents ou r
 La dissolution du réseau ne peut être prononcée que par une Assemblée Générale extraordinaire convoquée spécialement à ce sujet et à la majorité d'au moins les deux tiers de ses membres présents ou représentés. L'actif, s'il y a lieu, est dévolu à une association poursuivant des buts similaires.
 
  
-
- 
-
-.
-
-
+[Télécharger les statuts de l'association Réseau AMAP Haute-Normandie](telechargements/status-du-reseau-regionnal-des-amaps-de-hautes-normandie.pdf){.btn .btn-cta}
  
 
 
