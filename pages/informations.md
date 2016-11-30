@@ -1,6 +1,6 @@
     Title: Le réseau des AMAP de Haute&#8209;Normandie
     Date: 2014/09/11
-    navigation: Comment créer une AMAP, Statuts de l'association, Nouvelle charte des AMAP
+    navigation: Comment créer une AMAP, Statuts de l'association, Nouvelle charte des AMAP, Les producteurs en AMAP
 ---
 
 Les partenariats en AMAP, initiés en 2003 en région Provence-Alpes-Côte d’Azur, sont apparus en 2004 en région Haute–Normandie. La progression du nombre d’AMAP continue depuis, en s’appuyant sur l’expérience de groupes déjà constitués (essaimage de proximité) ou via le Réseau régional.
