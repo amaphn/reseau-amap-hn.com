@@ -1,7 +1,6 @@
 	title: Comment créer une AMAP
+    navigation: Comment créer une AMAP, Statuts de l'association, Nouvelle charte des AMAP
 	---
-
-# Comment créer une Amap
 
 Vous ne trouvez pas d'amap près de chez vous ! et bien pourquoi pas vous lancer dans l'aventure et ...en créer une. Vous verrez cela n'est pas si compliqué. Vous pouvez contacter le Réseau des Amap de Haute-Normandie : <contact@reseau-amap-hn.com>.
 
