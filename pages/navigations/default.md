@@ -3,6 +3,7 @@
     ---
 
 <div class="navigation navigation-vertical" markdown=1>
+ - [Le réseau régionnal](informations)
  - [Comment créer une AMAP](comment-creer-une-amap)
  - [Statuts de l'association](statuts-de-lassociation)
  - [Charte des AMAP](nouvelle-charte-des-amap)
