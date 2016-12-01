@@ -2,55 +2,38 @@
     Date: 2014/09/11
 ---
 
-Les partenariats en AMAP, initiés en 2003 en région Provence-Alpes-Côte d'Azur, sont apparus en 2004 en région Haute-Normandie. La progression du nombre d'AMAP continue. 
+Les partenariats en AMAP, initiés en 2003 en région Provence-Alpes-Côte d’Azur, sont apparus en 2004 en région Haute–Normandie. La progression du nombre d’AMAP continue depuis, en s’appuyant sur l’expérience de groupes déjà constitués (essaimage de proximité) ou via le Réseau régional.
 
-Photographie des Amap au 31 dec 2015
-Nous en dénombrons 58 sur le territoire haut-normand :
- - 44 en Seine-Maritime (dont 25 sur le territoire de la Métropole rouennaise),
- - 15 dans l’Eure,
-soit un total de + de 2 000 familles concernées (en moyenne 35 amapiens par amap) et 1530 rien qu’en seine-maritime.
- - Et 4  Amap en projets pour 2016 ! Plus de 100 producteurs répartis sur le territoire.
+Pour avoir une photographie du nombre d’AMAP, des familles que cela concerne, du nombre de producteurs livrant des produits, vous avez un comptage automatique se faisant en [Une de notre site](). **En novembre 2016, cela donnait  2 254 amapiens pour 64 AMAP** soit une moyenne de 35,2 amapiens par AMAP. Les trois quart se situent sur le département de la Seine-Maritime.  Enfin, se sont environ 128 producteurs répartis sur le territoire.
 
+Et toujours des projets d’ouverture pour l’année prochaine !
 
+Chacun de ces groupes de consom’acteurs développe un ou plusieurs partenariats avec des maraîchers, des éleveurs, des producteurs/transformateurs de lait, etc.
 
-Chacun de ces groupes de consom'acteurs développe un ou plusieurs partenariats avec des maraîchers, des éleveurs, des producteurs/transformateurs de lait, etc.
+Les Amap hautes-normandes ont développé des outils, des fonctionnements, parfois différents entre elles, mais qui toutes ont pour objectif le maintien d’une agriculture de proximité et de qualité.
 
-Ils se sont appuyés au début sur les compétences de structures agricoles et rurales haut-normandes, et aujourd'hui sur l'expérience de groupes déjà constitués via le Réseau régional ou en essaimage de proximité.
+Plusieurs questionnements sont apparus rapidement :
 
-Les Amap hautes-normandes ont développé des outils, des fonctionnements, parfois différents entre elles, mais qui toutes ont pour objectif le maintien d'une agriculture de proximité et de qualité.
-
- 
-
-##Plusieurs questions
- - Comment s'assurer que nos démarches vont dans le bon sens, qu'elles se conforment à la Charte nationale des AMAP [[Charte des AMAP]](http://miramap.org/IMG/pdf/charte_des_amap_mars_2014-2.pdf "charte des Amap 2014") ?
+ - Comment s’assurer que nos démarches vont dans le bon sens ?
  - Comment aller vers le 100 % en bio parmi nos producteurs ?
  - Comment développer la vie interne de nos associations et y favoriser la pratique démocratique ?
- - Comment accompagner et favoriser le développement de nouveaux groupes (essaimage) ? 
- - Comment s'inscrire dans une dynamique plus large en faveur du maintien d'une agriculture paysanne ? Avec qui ? Quelle est notre spécificité ? Notre plus-value sur la question ?
- - Comment communiquer et s'assurer que ce qui est dit correspond à notre vécu, à nos objectifs ?
+ - Comment accompagner et favoriser le développement de nouveaux groupes (essaimage) ?
+ - Comment s’inscrire dans une dynamique plus large en faveur du maintien d’une agriculture paysanne ? Avec qui ? Quelle est notre spécificité ? Notre plus-value sur la question ?
  - Comment participer à la dynamique nationale et développer les échanges avec les autres régions ?
-
-C'est autour de ces questions (et de bien d'autres...) que c'est créé le Réseau des Amap de Haute-Normandie en avril 2010.  
-
-Depuis, le Réseau régional a évolué. En plus des AG annuelles, le Réseau répond présent sur le territoire pour tenir des stands, participer aux AG des amap qui le souhaitent, aller à la rencontre des producteurs, des personnes souhaitant monter de nouvelles structures, discuter avec les associations ayant des objectifs proches des nôtres.
-
-Cette association reconnaît comme document de référence de son action : la [[Charte des AMAP]](http://miramap.org/IMG/pdf/charte_des_amap_mars_2014-2.pdf "charte des Amap 2014").  
-Ce document concentre les finalités dans lesquelles se reconnaissent les groupes et producteurs adhérant au Réseau des AMAP de Haute-Normandie, comme précisé dans [les statuts]({{base_url}}statuts-de-lassociation).
-En mars 2013, nous avons bénéficié d'une subvention importante du FSE (Fond Social Européen), qui nous a permis de réaliser plusieurs des objectifs que nous nous étions fixé. Un bilan  positif de ces actions a été fait (il est peut être envoyé sur demande). Actuellement, c'est La Région Haute-Normandie qui soutient notre démarche.
-cover:  
  
-
-##Objectifs du réseau des AMAP de Haute&#8209;Normandie
- 1. Le renforcement et le développement des AMAP (appui à la création, développement, mutualisation des expériences, etc.),
- 2. Le positionnement des associations membres (travail de sensibilisation interne),
-  3. Etre acteur du champ militant en Haute-Normandie aux côtés des autres acteurs agricoles, associatifs, économiques (comme le GrabHN, les Défis ruraux, les associations de consommateurs, la Confédération Paysanne, le Réseau rural, Terre de liens, les acteurs de l'économie sociale et solidaire, etc.),
- 4. Etre force de proposition, de construction de projets propres au réseau (qui ne pourraient être portés par une seule association membre, exemple des journées à thèmes, des ateliers de cuisine),
- 5. La réappropriation de notre communication (se faire connaître, faire la promotion du système et garantir les informations diffusées...),
- 6. La défense des producteurs en AMAP,
- 7. La mise en lien des différents intervenants : producteurs, consom'acteurs, Amap.
+C’est autour de ces sujets (et de bien d’autres…) que c’est créé le Réseau des Amap de Haute-Normandie en avril 2010.
+Depuis, le Réseau régional a évolué. En plus des AG annuelles, le Réseau répond présent sur le territoire pour répondre à différents objectifs : 
  
+ - La mise en lien des différents intervenants : producteurs, consom’acteurs, AMAP, institutions, et depuis cette année le rapprochement avec le Réseau Bas-Normand,
+ - Le renforcement et le développement des AMAP (appui à la création, développement, mutualisation des expériences, etc.),
+ - Etre force de proposition, de construction de projets propres au réseau (qui ne pourraient être portés par une seule association membre, exemple des journées à thèmes, des ateliers de cuisine),
+ - La réappropriation de notre communication (se faire connaître, faire la promotion du système et garantir les informations diffusées…) par des envois à la presse, des tenues de stands régulières,
+ - La défense des producteurs en AMAP et de l’agriculture locale, 
+ - Etre présent aux côtés des autres acteurs agricoles, associatifs, économiques…
 
- 
+Cette association reconnaît comme document de référence de son action : la [Charte des AMAP](telechargements/charte-des-amap.pdf).
+Ce document concentre les finalités dans lesquelles se reconnaissent les groupes et producteurs adhérant au Réseau des AMAP de Haute–Normandie, comme précisé dans [les statuts](statuts-de-lassociation). En mars 2013, nous avons bénéficié d’une subvention du FSE (Fond Social Européen), qui nous a permis de structurer notre action. Actuellement, La Région Normandie et La Métropole soutiennent notre démarche. Auquel il faut ajouter pour l’an passé le Département 76.
+Une partie de nos finances viennent des [adhésions des amap et des producteurs](telechargements/bulletin-adhesion-amap-hn.pdf).
 
 
 
