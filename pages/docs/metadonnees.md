@@ -44,7 +44,7 @@ Vous permet de spécifier la licence d'usage du contenu diffusé.
 
 ### Mise en avant
 <pre>
-	featured:</pre>
+	featured: true</pre>
 
 Cette méta données permet d'indiquer la mise en avant de certain contenu. Ce sera particulièrement utile pour certains articles de blog que l'on veut conserver sur la page d'accueil par exemple.  
 Remarquez qu'il n'est pas nécessaire de présciser une valeur pour cette méta donnée.
