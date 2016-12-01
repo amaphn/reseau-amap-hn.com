@@ -3,8 +3,6 @@ Date:
 Author:
 Description:
 Credit: Creative commons
-navigation: Comment créer une AMAP, Statuts de l'association, Nouvelle charte des AMAP, Les producteurs en AMAP
-
 ---
 
 ##Article 1 : dénomination

@@ -1,6 +1,5 @@
 	Title: Les AMAP se dotent d'une nouvelle Charte
 	Date: 2014/08/29
-    navigation: Comment créer une AMAP, Statuts de l'association, Nouvelle charte des AMAP, Les producteurs en AMAP
 ---
 
 [Télécharger la charte des AMAP](telechargements/chart-des-amap.pdf){.btn .btn-block .btn-cta}
