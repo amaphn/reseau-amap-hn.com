@@ -7,11 +7,3 @@
  - [Statuts de l'association](statuts-de-lassociation)
  - [Charte des AMAP](nouvelle-charte-des-amap)
 </div>
-    
-<ul class="navigation navigation-vertical">
-    <li>
-        <a href="{{url}}"{{#current}}class="current"{{/current}}>
-        exemple
-        </a>
-    </li>
-</ul>
