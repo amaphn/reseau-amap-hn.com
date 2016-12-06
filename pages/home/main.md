@@ -5,5 +5,5 @@
 	cover_title: Fermière en AMAP
 ---
 
-# Devenez consom'acteur !
+# Devenez consomm'acteur !
 Les <abbr>AMAP</abbr> vous permettent d'acheter vos produits fermiers auprès de vos producteurs locaux sans intermédiaires.
