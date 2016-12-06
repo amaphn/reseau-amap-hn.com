@@ -7,5 +7,5 @@ La charte nationale des AMAP cadre ce système d'échange organisé par des bén
 
 <nav markdown=1>
  - [La charte nationale des AMAP](telechargements/charte-des-amap.pdf)
- - [Le réseau régionnal des AMAP de Haute-Normandie](/informations)
+ - [Le réseau régional des AMAP de Haute-Normandie](/informations)
 </nav>

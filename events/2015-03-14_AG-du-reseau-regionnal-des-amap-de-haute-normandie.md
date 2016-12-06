@@ -1,4 +1,4 @@
-	title: AG du réseau régionnal des AMAP de Haute-Normandie
+	title: AG du réseau régional des AMAP de Haute-Normandie
 	startdate: 14-03-2015 8:30
 	enddate: 14-03-2015 18:30
 	location: Centre Malraux, Rouen

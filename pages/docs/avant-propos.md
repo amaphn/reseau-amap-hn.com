@@ -1,7 +1,7 @@
     title: Avant propos
     ---
     
-Avant toute chose il convient de présenter les méthodes et technologies choisies pour l'édition du contenu rédactionnel du site du réseau régionnal des AMAP de Normandie.
+Avant toute chose il convient de présenter les méthodes et technologies choisies pour l'édition du contenu rédactionnel du site du réseau régional des AMAP de Normandie.
 
 ## Motivations
 Les choix technologique et logiciels sont guidés par les critères suivant.

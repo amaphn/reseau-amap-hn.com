@@ -1,4 +1,4 @@
-	title : Bienvenue sur le site du réseau régionnal des AMAP de Haute-Nomandie
+	title : Bienvenue sur le site du réseau régional des AMAP de Haute-Nomandie
 	description : Les informations et les actualités des AMAP de Haute-Normandie
 	cover: fermiere-en-amap.png
 	cover_alt: Une joyeuse fermière avec sa fourche
