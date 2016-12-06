@@ -1,4 +1,4 @@
-    title: Formatter les données
+    title: Formater les données
     ---
 
  2. [Les métas données](#metas-donnees)
