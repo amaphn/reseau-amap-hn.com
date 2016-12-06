@@ -1,9 +1,9 @@
     title: Formater les données
     ---
 
- 2. [Les métas données](#metas-donnees)
- 3. [Les types de données](#types-de-donnees)
- 4. [Lier des données](#lier-des-donnees)
+ - [Les métas données](#metas-donnees)
+ - [Les types de données](#types-de-donnees)
+ - [Lier des données](#lier-des-donnees)
 
 
 ### Fichier de contenu
