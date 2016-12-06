@@ -12,4 +12,4 @@ Le Réseau vous dira s'il y a déjà un projet pas loin. Ensuite, par étapes :
 
 Par la suite, vous pourrez étoffer votre association en recherchant d'autres producteurs en plus des légumes. Le Réseau peut vous y aider. Vous pourrez pourquoi pas organiser des événements : film, débats, atelier cuisine, visite de producteurs, soupes…
 
-Vous trouverez des liens pour vous aider dans votre démarche : [contrat type de panier de légumes AMAP](telechargements/contrat-type-de-panier-de-legumes-amap.pdf), [statuts types d'une AMAP](telechargements/statuts-type-amap.pdf), [la Charte nationale des AMAP](telechargements/charte-des-amap.pdf), [bulletin d'adhésion au réseau régional](telechargements/bulletin-adhesion-reseau-regionnal-des-amap.pdf)
+Vous trouverez des liens pour vous aider dans votre démarche : [contrat type de panier de légumes AMAP](telechargements/contrat-type-de-panier-de-legumes-amap.pdf), [statuts types d'une AMAP](telechargements/statuts-type-amap.pdf), [la Charte nationale des AMAP](telechargements/charte-des-amap.pdf), [bulletin d'adhésion au réseau régional](telechargements/bulletin-adhesion-amap-hn.pdf)
