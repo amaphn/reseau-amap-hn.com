@@ -4,9 +4,9 @@
 Le système de gestion de contenu (FlatFile) utilise divers types de contenu. Chaque type de donnée possède des fonctionnalités et caractèristiques spécifiques.
 <!--more-->
 
- - [Standard](#standard)
- - [Évenements](#evenements)
- - [Petites annonces](#petites-annonces)
+ - [Standard](docs/metadonnees#standard)
+ - [Évenements](docs/metadonnees#evenements)
+ - [Petites annonces](docs/metadonnees#petites-annonces)
 
 ## Les métas données standard {#standard}
 Les métas données standard peuvent être utilisées sur n'importe quel type de contenu.
@@ -89,4 +89,5 @@ Permet d'afficher le lieu de la rencontre.
 
 Indiquez le **slug** (identifiant unique) de la fiche d'annuaire pour lier l'annonce à une entrée de l'annuaire. 
 
-[&#10094; Sommaire de la documentation]({{base_url}}docs/index)
+ 
+ [&#10094; Sommaire de la documentation](docs/index)

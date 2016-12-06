@@ -124,11 +124,11 @@ ou
 
 La syntaxe pour insérer une image est très similaire à la syntaxe des liens, voici un exemple :
 
-		![Logo de l'AMAPHN]({{base_url}}img/logo-amaphn-main.png)
+		![Logo de l'AMAPHN](image/default-logo.png)
 
 Donneras : 
 
-![Logo de l'AMAPHN](../img/logo-amaphn-main.png)
+![Logo de l'AMAPHN](images/default-logo.png)
 
 Notez la présence du point `!` d'exclamation avant le `[` crochet d'ouverture. Le texte entre les `[]` crochets représente le texte alternatif à l'image, il s'agit d'un décrivant l'image qui pourras être exploité par les [agent utilisateurs](https://fr.wikipedia.org/wiki/User-Agent) afin de comprendre le contenu de l'image.
 
@@ -207,4 +207,5 @@ Donneras :
 |Produits de la pomme 	|17 			|2.50€
 |Viande d'agneau 		|17 			|12.00€
 
-[&#10094; Sommaire de la documentation]({{base_url}}docs/index)
+ 
+ [&#10094; Sommaire de la documentation](docs/index)

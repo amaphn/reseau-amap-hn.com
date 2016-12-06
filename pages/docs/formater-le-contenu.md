@@ -1,9 +1,11 @@
     title: Formater les données
     ---
 
- - [Les métas données](#metas-donnees)
- - [Les types de données](#types-de-donnees)
- - [Lier des données](#lier-des-donnees)
+**Sommaire**
+
+ - [Les métas données](docs/formater-le-contenu#metas-donnees)
+ - [Les types de données](docs/formater-le-contenu#types-de-donnees)
+ - [Lier des données](docs/formater-le-contenu#lier-des-donnees)
 
 
 ### Fichier de contenu
@@ -33,7 +35,7 @@ Les métas données sont composés d'une variable (par ex. `title`), suivit de `
 
 Sous le séparateur de méta `---` viens le contenu de l'article, ici vous pouvez utiliser du [balisage Markdown](https://fr.wikipedia.org/wiki/Markdown) (par ex. `# Bonjour le monde` pour créer un titre), insérer du HTML (un lien incorporé de vidéo par exemple) et insérer du code fournis par FlatFile.
 
-[Liste des marqueurs Markdown](/docs/markdown) {.btn .btn-cta}
+[Liste des marqueurs Markdown](docs/markdown) {.btn .btn-cta}
 
 ## Les métas données {#metas-donnees}
 
@@ -54,7 +56,7 @@ Cette méthode sert à indiquer une valeur booléene (vrai ou faux), il n'est pa
 
 Voici une liste des métas données de base, par ordre d'importance (de fortement conseillée à optionnelle).
 
-[Liste des métas données](/docs/metas) {.btn .btn-cta}
+[Liste des métas données](docs/metadonnees) {.btn .btn-cta}
 
 ## Types de données {#types-de-donnees}
 
@@ -70,7 +72,7 @@ Lors de l'affichage des informations, chaque type auras un traitement qui lui es
 Au sein de chaque repertoire de type de donnée, il est possible de créer d'autres répertoire pour gérer d'autres type de contenus.
 
 ### Images
-Si vous avez besoin d'insérer des images dans vos article, vous pouvez créer un répertoire `images` dans votre dossier de type dans lequel vous placerez les images pour vos articles. Il vous suffiras ensuite [d'inserer l'image](/docs/markdown#images) lors de la rédaction de votre article.
+Si vous avez besoin d'insérer des images dans vos article, vous pouvez créer un répertoire `images` dans votre dossier de type dans lequel vous placerez les images pour vos articles. Il vous suffiras ensuite [d'inserer l'image](docs/markdown#images) lors de la rédaction de votre article.
 
 <pre>
 | content
@@ -118,7 +120,7 @@ Dans notre article sur les agrumes en Normandie, nous voulons faire référence 
 la production d'agrumes est suffisante pour faire de très belles
 [recettes de tartes aux citrons](/tarte-aux-citrons) maisons</pre>
 
-La syntaxe Markdonw `[Texte de votre lien](url-de-votre-lien)` nous permet de [créé un hyperlien](/docs/markdown#hyperliens), l'adresse relative `/tarte-aux-citrons` est le *slug* qui fait référence a l'article `2015-04-03_tarte-aux-citrons.md` présent dans notre dossier `posts` . L'URL généré par lors du rendu sera `http://domaine.com/post/tarte-aux-citron` .
+La syntaxe Markdonw `[Texte de votre lien](url-de-votre-lien)` nous permet de [créé un hyperlien](docs/markdown#hyperliens), l'adresse relative `/tarte-aux-citrons` est le *slug* qui fait référence a l'article `2015-04-03_tarte-aux-citrons.md` présent dans notre dossier `posts` . L'URL généré par lors du rendu sera `http://domaine.com/post/tarte-aux-citron` .
 
 Pour faire référence à une article dans un sous repertoire, par exemple : 
 
@@ -223,3 +225,6 @@ l&#39;<a href="https://twitter.com/hashtag/AMAP?src=hash">#AMAP</a> des
 </p>
 &mdash; France3 Bourgogne (@F3Bourgogne) <a href="https://twitter.com/F3Bourgogne/status/609769411877175296">13 Juin 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+ 
+ [&#10094; Sommaire de la documentation](docs/index)

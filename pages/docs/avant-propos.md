@@ -38,4 +38,5 @@ Afin d'apporter la meilleur réponse possible à ces exigences, les solutions su
  
 Dans la suite de la documentation nous nous attacherons à vous guider pour l'usage pratique des technologies de publication et d'édition. Il conviendras de vous familiariser vous même avec le concept de base des technologies employé (référez-vous aux liens données plus haut).
  
+ [&#10094; Sommaire de la documentation](docs/index)
  

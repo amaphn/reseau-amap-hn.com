@@ -3,7 +3,6 @@
 	author: Ziopod
 	date: 2015/07/10
 	license: {"name":"Creative commons CC BY 4.0", "url":"http://creativecommons.org/licenses/by/4.0/"}
-
 ---
 
 Le contenu éditoriale du site est géré par un gestionnaire de contenu sans base de données ([fichiers plat](https://fr.wikipedia.org/wiki/Base_de_donn%C3%A9es_orient%C3%A9e_texte)). Les données sont représentées sous formes de dossiers et de fichiers. Le document que vous consultez en ce moment est lui-même un fichier plat (Flatfile). Dans cette documentation, nous partirons du principe que vous êtes familier avec les bases de l'informatique (créer un dossier et un fichier, nommer un fichier, afficher et changer une extension de fichier, naviguer sur internet, etc.).
@@ -14,9 +13,9 @@ Dans cette rubrique nous verrons comment créer et organiser les fichiers du con
 
 **Sommaire**
 
- 1. [Gestion des fichiers textes](#gestion-des-fichiers-textes)
- 2. [Gestion des médias](#gestion-des-medias)
- 3. [Horodatage et tri des données](#horodatage-et-tri-des-donnees)
+ - [Gestion des fichiers textes](docs/gestion-du-contenu#gestion-des-fichiers-textes)
+ - [Gestion des médias](docs/gestion-du-contenu#gestion-des-medias)
+ - [Horodatage et tri des données](docs/gestion-du-contenu#horodatage)
 
 
 ## Gestion des fichiers textes {#gestion-des-fichiers-textes}
@@ -61,7 +60,7 @@ Par exemple, pour notre article précedent, nous placerons les fichiers dans un 
 
 Vous pourrez ensuites les insérer dans votre article à l'aide du marqueur [Markdown approprié](docs/markdown#medias).
 
-## Horodatage et tri des données {#horodatage-et-tri-des-donnees}
+## Horodatage et tri des données {#horodatage}
 
 Vous remarquerez que dans l'exemple précédent, le nom du fichier possède une date `2015-07-12_`, c'est un prefixe de tri; En utilisant le signe `_` "tiret bas", vous indiquez à FlatFile un prefixe qui pourra servir à présicer une date de publication ou simplement modifier l'ordre de tri.
 
@@ -92,7 +91,4 @@ Pour des données de type blog, nous classerons les articles de cette manière :
 Les prefixes de type date serons très utile pour afficher les articles par ordre de publication et pour mettre en place des fonctionnalités de tri; par exemple pour générer des archives chronologique, ou pour créer un gestionnaire d'événements. 
 
 
-
-
-
-[&#10094; Sommaire de la documentation]({{base_url}}docs/index)
+[&#10094; Sommaire de la documentation](docs/index)
