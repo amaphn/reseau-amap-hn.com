@@ -4,15 +4,15 @@
 Markdown est un système de balisage léger, il vous permet de marquer (balisé) votre texte afin de mettre en valeur son contenu. À titre d'exemple ce docuement est complément présenté en syntaxe Markdown.
 <!--more-->
 
- - [Le titrage](#titrage)
- - [Le texte en emphases](#emphases)
- - [Paragraphes et retour à la ligne](#paragraphes)
- - [Les hyperliens](#hyperliens)
- 	- [Les liens stylisés](#hyperliens-stylises)
- - [Les images](#images)
- - [Citations](#citations)
- - [Listes](#listes)
- - [Tableaux](#tableaux)
+ - [Le titrage](docs/markdown#titrage)
+ - [Le texte en emphases](docs/markdown#emphases)
+ - [Paragraphes et retour à la ligne](docs/markdown#paragraphes)
+ - [Les hyperliens](docs/markdown#hyperliens)
+ 	- [Les liens stylisés](docs/markdown#hyperliens-stylises)
+ - [Les images](docs/markdown#images)
+ - [Citations](docs/markdown#citations)
+ - [Listes](docs/markdown#listes)
+ - [Tableaux](docs/markdown#tableaux)
 
 
 ## Titrage {#titrage}
