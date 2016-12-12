@@ -1,5 +1,8 @@
 	title: AMAP HN
 ---
+
+[Retour sur la page d'accueil](){.btn .btn-cta}
+
 <adress>
 **Réseau régional des AMAP de Haute-Normandie**  
 Association loi 1901
@@ -15,8 +18,6 @@ Association loi 1901
 	@amap.hautenormandie
 </a>
 
-
- - [Retour sur la page d'accueil]()
  - [Statuts de l'association](statuts-de-lassociation)
  - [Blog](blog)
  - [Petites Annonces](annonces)
