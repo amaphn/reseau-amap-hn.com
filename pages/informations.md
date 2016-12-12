@@ -33,12 +33,9 @@ Depuis, le Réseau régional a évolué. En plus des AG annuelles, le Réseau r�
 
 Cette association reconnaît comme document de référence de son action : la [Charte des AMAP](telechargements/charte-des-amap.pdf).
 Ce document concentre les finalités dans lesquelles se reconnaissent les groupes et producteurs adhérant au Réseau des AMAP de Haute–Normandie, comme précisé dans [les statuts](statuts-de-lassociation). En mars 2013, nous avons bénéficié d’une subvention du FSE (Fond Social Européen), qui nous a permis de structurer notre action. Actuellement, La Région Normandie et La Métropole soutiennent notre démarche. Auquel il faut ajouter pour l’an passé le Département 76.
-Une partie de nos finances viennent des [adhésions des amap et des producteurs](telechargements/bulletin-adhesion-amap-hn.pdf).
+Une partie de nos finances viennent des [adhésions des amap](telechargements/bulletin-adhesion-amap-hn.pdf) et des [adhésions des producteurs](telechargements/bulletin-adhesion-producteur-amap-hn.pdf).
 
-Télcharger les bulletins d'adhésions : 
-
- - [Bulletin d'adhésion au réseau pour les AMAP](telechargements/bulletin-adhesion-amap-hn.pdf)
- - [Bulletin d'ahdésion au réseau pour les produceurs](telechargements/bulletin-adhesion-producteur-amap-hn.pdf)
+Télécharger les bulletins d'adhésions : 
 
 [Télécharger le bulletin d'adhésion pour les AMAP](telechargements/bulletin-adhesion-amap-hn.pdf){.btn .btn-cta}
 [Télécharger le bulletin d'adhésion pour les producteurs](telechargements/bulletin-adhesion-producteur-amap-hn.pdf){.btn .btn-cta}
