@@ -8,7 +8,7 @@ Pour avoir une photographie du nombre d’AMAP, des familles que cela concerne, 
 
 Et toujours des projets d’ouverture pour l’année prochaine !
 
-Chacun de ces groupes de consom’acteurs développe un ou plusieurs partenariats avec des maraîchers, des éleveurs, des producteurs/transformateurs de lait, etc.
+Chacun de ces groupes de consomm’acteurs développe un ou plusieurs partenariats avec des maraîchers, des éleveurs, des producteurs/transformateurs de lait, etc.
 
 Les Amap hautes-normandes ont développé des outils, des fonctionnements, parfois différents entre elles, mais qui toutes ont pour objectif le maintien d’une agriculture de proximité et de qualité.
 
@@ -24,7 +24,7 @@ Plusieurs questionnements sont apparus rapidement :
 C’est autour de ces sujets (et de bien d’autres…) que c’est créé le Réseau des Amap de Haute-Normandie en avril 2010.
 Depuis, le Réseau régional a évolué. En plus des AG annuelles, le Réseau répond présent sur le territoire pour répondre à différents objectifs : 
  
- - La mise en lien des différents intervenants : producteurs, consom’acteurs, AMAP, institutions, et depuis cette année le rapprochement avec le Réseau Bas-Normand,
+ - La mise en lien des différents intervenants : producteurs, consomm’acteurs, AMAP, institutions, et depuis cette année le rapprochement avec le Réseau Bas-Normand,
  - Le renforcement et le développement des AMAP (appui à la création, développement, mutualisation des expériences, etc.),
  - Etre force de proposition, de construction de projets propres au réseau (qui ne pourraient être portés par une seule association membre, exemple des journées à thèmes, des ateliers de cuisine),
  - La réappropriation de notre communication (se faire connaître, faire la promotion du système et garantir les informations diffusées…) par des envois à la presse, des tenues de stands régulières,
