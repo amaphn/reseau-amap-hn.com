@@ -6,4 +6,4 @@
 ---
 
 # Devenez consomm'acteur !
-Les <abbr>AMAP</abbr> vous permettent d'acheter vos produits fermiers auprès de vos producteurs locaux sans intermédiaires.
+Les <abbr>AMAP</abbr> vous permettent d'acheter vos produits fermiers auprès de vos producteurs locaux sans intermédiaire.
