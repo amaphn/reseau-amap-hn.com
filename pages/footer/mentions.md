@@ -2,5 +2,3 @@
 ---
 
 © {{current_year}} Réseau régional des AMAP de Haute-Normandie
-
---
