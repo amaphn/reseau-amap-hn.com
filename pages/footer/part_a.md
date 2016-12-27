@@ -3,7 +3,7 @@
 
 [Retour sur la page d'accueil](){.btn .btn-cta}
 <div>
-<adress>
+<address>
 <p>
 	<strong>Réseau régional des AMAP de Haute-Normandie</strong><br>
 	Association loi 1901
@@ -12,7 +12,7 @@
 	340, rue des 4 amis<br>
 	76 230 Bois-Guillaume
 </p>
-</adress>
+</address>
 </div>
 <http://reseau-amap-hn.org>  
 <contact@reseau-amap-hn.com>  
