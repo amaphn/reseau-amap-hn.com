@@ -131,6 +131,3 @@ l&#39;<a href="https://twitter.com/hashtag/AMAP?src=hash">#AMAP</a> des
 </p>
 &mdash; France3 Bourgogne (@F3Bourgogne) <a href="https://twitter.com/F3Bourgogne/status/609769411877175296">13 Juin 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
