@@ -1,6 +1,6 @@
     title: Graines de jardin
     startdate: 20-05-2017
-    endate: 21-05-2017
+    enddate: 21-05-2017
 ---
 
 **Le week-end du 20 au 21 mai de 10h à 19h**, venez découvir « *un monde de senteurs* » le thème du festival « *Graines de jardin* » à Rouen.
