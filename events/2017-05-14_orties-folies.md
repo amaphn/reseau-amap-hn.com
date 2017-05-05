@@ -1,9 +1,8 @@
     title : Orties Folies
-    date: 14-05-2017 10:00
     location : Beaumesnil
 ---
 
-Le dimanche 14 mai de 10 h à 18 h venez profiter du festival « Orties folies » au potager de Beaumesnil (27).
+Le **dimanche 14 mai de 10h à 18h**, venez profiter du festival « Orties folies » au potager de Beaumesnil (27).
 
 Le réseau des AMAP de Normandie tiendra un stand.
 
