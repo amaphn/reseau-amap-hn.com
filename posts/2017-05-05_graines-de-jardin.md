@@ -13,11 +13,3 @@
 
  - Entrée libre
  - Plus d'informations sur <http://www.graines-de-jardin.fr>
- 
- 
-     Title: Noël en cuisine avec les AMAP ! 
-    Date: 2016/12/15
-    Author: Le Réseau des AMAP de Haute&#x2011;Normandie
-    Cover: cuisine-gargan.jpg
-    Excerpt: Lundi 19 décembre : Le Réseau des Amap et l’Amap du Mt Gargan vous donnent rendez-vous à 18 h pour un atelier cuisine à partir du contenu d’un panier de légumes de saison.
-    featured:
