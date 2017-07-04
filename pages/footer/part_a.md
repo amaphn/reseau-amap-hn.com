@@ -2,15 +2,18 @@
 ---
 
 [Retour sur la page d'accueil](){.btn .btn-cta}
-
-<adress>
-**Réseau régional des AMAP de Haute-Normandie**  
-Association loi 1901
-
-340, rue des 4 amis  
-76 230 Bois-Guillaume
-</adress>
-
+<div>
+<address>
+<p>
+	<strong>Réseau régional des AMAP de Haute-Normandie</strong><br>
+	Association loi 1901
+</p>
+<p>
+	340, rue des 4 amis<br>
+	76 230 Bois-Guillaume
+</p>
+</address>
+</div>
 <http://reseau-amap-hn.org>  
 <contact@reseau-amap-hn.com>  
 <a href="https://www.facebook.com/amap.hautenormandie" class="icon">
