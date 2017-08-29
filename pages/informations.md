@@ -4,7 +4,7 @@
 
 Les partenariats en AMAP, initiés en 2003 en région Provence-Alpes-Côte d’Azur, sont apparus en 2004 en région Haute–Normandie. La progression du nombre d’AMAP continue depuis, en s’appuyant sur l’expérience de groupes déjà constitués (essaimage de proximité) ou via le Réseau régional.
 
-Pour avoir une photographie du nombre d’AMAP, des familles que cela concerne, du nombre de producteurs livrant des produits, vous avez un comptage automatique se faisant en [Une de notre site](). **En novembre 2016, cela donnait  2 254 amapiens pour 64 AMAP** soit une moyenne de 35,2 amapiens par AMAP. Les trois quarts se situent sur le département de la Seine-Maritime.  Enfin, ce sont environ 128 producteurs répartis sur le territoire.
+Pour avoir une photographie du nombre d’AMAP, des familles que cela concerne, du nombre de producteurs livrant des produits, vous avez un comptage automatique se faisant en [Une de notre site](). **En novembre 2016, cela donnait  2 254 amapiens pour 60 AMAP** soit une moyenne de 35,2 amapiens par AMAP. Les trois quarts se situent sur le département de la Seine-Maritime.  Enfin, ce sont environ 128 producteurs répartis sur le territoire.
 
 Et toujours des projets d’ouverture pour l’année prochaine !
 
