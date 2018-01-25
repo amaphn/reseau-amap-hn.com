@@ -60,6 +60,11 @@ Par exemple, pour notre article précedent, nous placerons les fichiers dans un 
 
 Vous pourrez ensuites les insérer dans votre article à l'aide du marqueur [Markdown approprié](docs/markdown#medias).
 
+### Format et taille des images
+
+Le format conseillé est le JPG. 
+La taille des images (en pixel) pour les **images de couverture** doit être 1188  pixels de large maximum et d'environs 400 pixels de hauteur. Les **images accompagnant le texte** doit ête de 879 pixels de large et d'envrons 300 pixels de hauteur.
+
 ## Horodatage et tri des données {#horodatage}
 
 Vous remarquerez que dans l'exemple précédent, le nom du fichier possède une date `2015-07-12_`, c'est un prefixe de tri; En utilisant le signe `_` "tiret bas", vous indiquez à FlatFile un prefixe qui pourra servir à présicer une date de publication ou simplement modifier l'ordre de tri.
