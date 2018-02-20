@@ -1,3 +1,13 @@
+## Contribution
+Vous êtes libre de contribuer au contenu du [site Régional du réseau des AMAP de Haute-Normandie](http://reseau-amap-hn.com/), la condition est d'avoir sur Github.com.
+
+Pour contribuer en [créant un ticket](https://github.com/amaphn/reseau-amap-hn.com/issues), ou en modifiant directement un fichier depuis l'interface de Github. 
+
+Documentation sur le sujet :
+
+ - [Copier un dépôt](https://help.github.com/articles/fork-a-repo/)
+ - [About pull requests](https://help.github.com/articles/about-pull-requests/)
+
 ## Publication d'un article
 
 ### 1. Créer un fichier .md dans le dossier "post"
