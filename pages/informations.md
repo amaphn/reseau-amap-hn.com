@@ -8,7 +8,7 @@ Pour avoir une photographie du nombre d’AMAP, des familles que cela concerne, 
 
 Et toujours des projets d’ouverture pour l’année prochaine !
 
-Chacun de ces groupes de consomm’acteurs développe un ou plusieurs partenariats avec des maraîchers, des éleveurs, des producteurs/transformateurs de lait, etc.
+Chacun de ces groupes de consomm’acteurs développe un ou plusieurs partenariats avec des maraîchers, des éleveurs, des producteurs/transformateurs de lait, etc…
 
 Les Amap hautes-normandes ont développé des outils, des fonctionnements, parfois différents entre elles, mais toutes ont pour objectif le maintien d’une agriculture de proximité et de qualité.
 
