@@ -1,6 +1,6 @@
-# publication d'un article
+## Publication d'un article
 
-## 1. Créer un fichier .md dans le dossier "post"
+### 1. Créer un fichier .md dans le dossier "post"
 
 Les fichier d'articles sont de simples fichier texte dont l'extension doit être .md  
 Les noms de fichiers ne doivent comporter de caractères spéciaux (é,",&, etc.) ni d'espace. Seul
@@ -8,7 +8,7 @@ les chiffres, lettres et signe le séparateur `-` sont autorisé.
 
 Les articles seront affiché par ordre alphabétique inversé, vous pouvez utiliser des chiffres au debut de nom du fichier suivi d'un tiret de soulignemement `_`. Par exemple `2013-09-24_le-titre-de-mon-article.md` ou `1_mon-article.md`.
 
-## 2. Paramètres
+### 2. Paramètres
 Un paramètre d'article est composé d'un mot-clé, suivi d'un signe deux-points `:` et d'une valeur. Par exemple `Titre: Le titre de mon article`.
 
 Ils doivent toujours ce situer au début du fichier avant le marqueur `----`. Ils sont exploiter par le système pour afficher automatiquement certaines informations, améliorer l'affichage et le améliorer le référencement des articles.
@@ -42,11 +42,11 @@ Paramètre | Format | Description
 	----
 
 
-## 3. Le contenu de l'article
+### 3. Le contenu de l'article
 Le marquage sémantique et de présentation est basé sur la syntaxte de marquage [Markdown](http://daringfireball.net/projects/markdown/).
 Vous touverez une référence complète de la syntaxte à cette adresse [http://michelf.ca/projets/php-markdown/syntaxe/](http://michelf.ca/projets/php-markdown/syntaxe/)
 
-### 3.a Usage de base de markdown
+#### 3.a Usage de base de markdown
 Markdown permet de faire pas mal de chose, mais nous allons nous attaché à vous décrire les quelques marqueurs principaux.
 
 Marqueur                       | exemple | rendu | description 
@@ -64,13 +64,13 @@ Créer une liste à puce       | ` - un élément de liste` | <li>un élément d
 Créer une liste numérotée    |` 1. Un élément de liste` | <ol><li>Un élément de liste</li></ol> | Un chiffre + un point + un espace + votre texte
 
 
-### 3.b Ajouter des images
+#### 3.b Ajouter des images
 Pour utiliser vos propre images, ajoutez les dans le dossier `post/images`.  
 Pour insérer une image dans un article utilisez l'adresse `/content/type-de-contenu/images/nom-de-l-image.jpg`.
 
 Par exemple `![Tomates et basilic font bon ménage](/content/post/images/plants-de-tomates-et-basilic.jpg)`
 
-### 3.c Ajout de médias externe
+#### 3.c Ajout de médias externe
 Vous pouvez insérer du contenu provenant d'autres services, comme des vidéos, des images ou du contenu "riche".  
 
 Par exemple voici une image provenant de Wikimedia externe : 
