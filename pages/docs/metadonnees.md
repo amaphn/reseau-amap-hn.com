@@ -20,11 +20,11 @@ Les métas données standard peuvent être utilisées sur n'importe quel type de
 La méta titre est importante, c'est le titre de votre article pour les agents utilisateur; elle permettra aux machines de comprendre le contenu de article et de présenter correctement votre article.  
 Par exemple cela permet d'afficher du contenu sur les onglet d'un navigateur et de favoriser la mise en avant de mot-clefs pour les moteurs de recherche.
 
-### Description
+### Extrait
 <pre>
-	description: Cette description résume bien le contenu de mon article.</pre>
+	excerpt: Cette description résume bien le contenu de mon article.</pre>
 
-Un court résumé du contenu de votre article. La description est capitale pour la présentation de votre article dans les moteurs de recherche. Elle permet également de présenter l'article de façon élégante dans les index de contenu (sur la page d'index d'un blog ou sur une page d'archive par exemple).
+Un court résumé du contenu de votre article. L'extrait est capitale pour la présentation de votre article dans les moteurs de recherche. Elle permet également de présenter l'article de façon attirante dans les index de contenu (sur la page d'index d'un blog ou sur une page d'archive par exemple).
 
 ### Auteur
 <pre>
