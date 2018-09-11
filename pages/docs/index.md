@@ -1,8 +1,8 @@
 	Title: Documentation
 ---
 
- - [Avant propos](docs/avant-propos)
+ - [Introduction](docs/introduction)
  - [Gestion du contenu](docs/gestion-du-contenu)
- - [Formatage de texte](docs/formater-le-contenu)
- - [Les métadonnées](docs/metadonnees)
+ - [Les fichiers de contenu](docs/fichiers-de-contenu)
+ - [L'avant-propos](docs/l-avant-propos)
  - [Pense-bête Markdown](docs/markdown)
