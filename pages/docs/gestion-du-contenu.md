@@ -1,9 +1,9 @@
-	title: Gestionnaire de contenu
+	title: Gestion du contenu
 	description: Documentation sur le gestionnaire de contenu FlatFile
 	author: Ziopod
 	date: 2015/07/10
 	license: {"name":"Creative commons CC BY 4.0", "url":"http://creativecommons.org/licenses/by/4.0/"}
----
+    ---
 
 Le contenu éditoriale du site est géré par un gestionnaire de contenu sans base de données ([fichiers plat](https://fr.wikipedia.org/wiki/Base_de_donn%C3%A9es_orient%C3%A9e_texte)). Les données sont représentées sous formes de dossiers et de fichiers. Le document que vous consultez en ce moment est lui-même un fichier plat (Flatfile). Dans cette documentation, nous partirons du principe que vous êtes familier avec les bases de l'informatique (créer un dossier et un fichier, nommer un fichier, afficher et changer une extension de fichier, naviguer sur internet, etc.).
 
@@ -46,19 +46,25 @@ L'identifiant unique de l'article (que l'on appel également "slug") est la port
 
 Vous pouvez bien entendu agrementer votre contenu texte de contenu média complémentaire (images, vidéos, etc.). Il est important de ter que pour des soucis de simplicité technique, seul les médias d'images et de fichiers (leger) à telecharger seronts gérer dans le dossier de contennu du site. Les médias plus lourds (vidéos, gros fichiers) devrons provenir de service internet tiers (Vimeo, Youtube, Dropbox, etc.).
 
-Vous êtes libre de placer le contenu médias ou vous voulez. Mais pour plus de clarté et d'organisation nous classerons les médias dans un dossier portant le nom de l'article auxquels les fichiers sont liés.
+Vous êtes libre de placer le contenu médias ou vous voulez. Mais pour plus de clarté et d'organisation nous classerons les médias dans un dossier portant le nom du type de média.
 
-Par exemple, pour notre article précedent, nous placerons les fichiers dans un sous-dossier "2015-07-12_bonjour-je-suis-un-article" :
+Par exemple, pour notre article précedent, nous placerons les fichiers dans un sous-dossier `images` :
 
-<pre>
+~~~
 | content
-	| posts
-		2015-07-12_bonjour-je-suis-un-article.md
-        | 2015-07-12_bonjour-je-suis-un-article
-            visuel-pour-mon-article.jpg
-            document-a-telecharcher.pdf</pre>
+  | posts
+    2015-07-12_bonjour-je-suis-un-article.md
+    | images
+      visuel-pour-mon-article.jpg
+      document-a-telecharcher.pdf
+~~~
 
 Vous pourrez ensuites les insérer dans votre article à l'aide du marqueur [Markdown approprié](docs/markdown#medias).
+
+### Format et taille des images
+
+Le format conseillé est le JPG. 
+La taille des images (en pixel) pour les **images de couverture** doit être 1188  pixels de large maximum et d'environs 400 pixels de hauteur. Les **images accompagnant le texte** doit ête de 879 pixels de large et d'envrons 300 pixels de hauteur.
 
 ## Horodatage et tri des données {#horodatage}
 

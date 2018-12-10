@@ -1,26 +1,25 @@
-    title: Formater les données
-    ---
+    title: Les fichiers de contenu
+	---
 
 **Sommaire**
 
- - [Les métas données](docs/formater-le-contenu#metas-donnees)
- - [Les types de données](docs/formater-le-contenu#types-de-donnees)
- - [Lier des données](docs/formater-le-contenu#lier-des-donnees)
+ - [Le fichier de contenu](docs/fichiers-de-contenu#le-fichier-de-contenu)
+ - [Les types de contenus](docs/fichiers-de-contenu#types-de-contenus)
+ - [Lier des données](docs/fichiers-de-contenu#lier-des-donnees)
 
+## Le fichier de contenu {#le-fichier-de-contenu}
 
-### Fichier de contenu
+Les fichiers de contenu vous permette de publier du contenu sur votre site (page, article, événement, etc.); ce sont de simple fichier texte que vous éditez avec n'importe quel editeur de texte, vous devez simplement changer l'extension du nom de fichier `.txt` (texte brut) par l'extension `.md` (Markdown).
 
-Les fichiers de contenu vous permettrons de publier du texte sur votre site (page, article, événement, etc.); ce sont de simple fichier texte que vous éditez avec n'importe quel editeur de texte, vous devez simplement changer l'extension du nom de fichier `.txt` (texte brut) par l'extension `.md` (Markdown).
-
-Les fichiers de contenu sont séparés en deux zones disctintes, la zone des méta données et la zone de contenu. Les métas données seront toujours inscrites en début de fichiers et séparé du contenu par le spérateur `---` triple tiret simple.
+Les fichiers de contenu sont constitué de deux parties séparés par un triple tirets séparateur `---`. La zone avant les tirets est appelé *avant-propos*, la zone en dessous des tirets est appelé *corps du contenu* ou plus simplement *contenu*.
 
 Voici un exemple de fichier de contenu : 
 
-<pre>
-	title: Bonjour, voici mon premier article
-	description: C'est un extrait d'Alice au pays de Merveilles.
-	author: Ziopod@gmail.com
----
+~~~
+    title: Bonjour, voici mon premier article
+    excerpt: C'est un extrait d'Alice au pays de Merveilles.
+    author: Ziopod@gmail.com
+    ---
 
 # Alice in Wonderland
 
@@ -29,47 +28,30 @@ suddenly down, so suddenly that Alice had not a moment to think about stopping
 herself before she found herself falling down what seemed to be a very deep
 well.
 
-</pre>
+~~~
 
-Les métas données sont composés d'une variable (par ex. `title`), suivit de `:` (deux points), puis d'une valeur (par ex. `Bonjour, voici mon premier article`). Vous remarquerez l'espace à gauche des métas données, il est créeé avec une tabulation ou 4 espaces; cet espace n'as pas d'incidence sur l'interprétation des données, il ajoute simplement du confort de lecture au fichier au moment de sa rédaction.
+L'*avant propos* est composé d'une série de variables/valeurs. Chaque variable commence par deux ou quatres espaces, le nom de la variable, le signe deux points `:` puis la valeur.
 
-Sous le séparateur de méta `---` viens le contenu de l'article, ici vous pouvez utiliser du [balisage Markdown](https://fr.wikipedia.org/wiki/Markdown) (par ex. `# Bonjour le monde` pour créer un titre), insérer du HTML (un lien incorporé de vidéo par exemple) et insérer du code fournis par FlatFile.
+[Plus d'informations sur l'avant-propos](docs/l-avant-propos) {.btn .btn-cta}
+
+Sous le séparateur de méta `---` viens le *contenu* du fichier, ici vous pouvez utiliser du [balisage Markdown](https://fr.wikipedia.org/wiki/Markdown) at ajouter des média pour enrichir la présentation du contenu.
 
 [Liste des marqueurs Markdown](docs/markdown) {.btn .btn-cta}
 
-## Les métas données {#metas-donnees}
+## Types de contenus {#types-de-contenus}
 
-Les métas données sont des informations qui sont destinés aux [agents utilisateurs](https://fr.wikipedia.org/wiki/User-Agent) (les outils qui lirons le contenu du site). Ces données sont utiles pour exploiter certaines fonctionnalité des agents utilisateur; cela peut, par exemple, permettre à un moteur de recherche de mieux référencer et présenter le contenu d'un site, ou pemettre de fournir des informations complémentaires aux [lecteurs d'écran](https://fr.wikipedia.org/wiki/Lecteur_d%27%C3%A9cran) et navigateurs braille.
+Les cotenus du site peuvent être de plusieurs types (article de blog, page, agenda, etc.). Chaque type est distingué par un repertoire portant le nom du type en anlgais et au pluriel. Les types possibles sont les pages `pages`, les articles de blog `posts` et les événements `events`.
 
-Les métas données peuvent êtrent indiqué de plusieurs manière : 
-
-**Valeur**  
-La forme la plus courante d'une méta données, elle présice une variable accompagné de sa valeur.
-Le système de présentation pourra exploiter la valeur de la méta pour différents usages.
-
-	title: Hello le monde
-
-**Booleen**
-Cette méthode sert à indiquer une valeur booléene (vrai ou faux), il n'est pas nécessaire de présicer une valeur. 
-
-	featured: 
-
-Voici une liste des métas données de base, par ordre d'importance (de fortement conseillée à optionnelle).
-
-[Liste des métas données](docs/metadonnees) {.btn .btn-cta}
-
-## Types de données {#types-de-donnees}
-
-Les données sont organisées par type, chaque type est distingué par un repertoire portant le nom du type en anlgais et au pluriel. Les types géré par défaut sont les pages `pages` et les articles de blog `posts`.
-
-<pre>
+~~~
 | content
 	| pages
-	| posts</pre>
+	| posts
+	| events
+~~~
 
-Lors de l'affichage des informations, chaque type auras un traitement qui lui est propre. Par exemple les articles de blog pourrons être affichées par liste paginé, et on auras la possibilité de mettre certain articles en avant (avec la méta `featured`).
+Lors de leur affichage, chaque type auras un traitement spécifique. Par exemple les articles de blog pourrons être affichées par liste paginée, et certain articles pourrons être affichés mis en avant (affiché en Une sur la page d'accueil).
 
-Au sein de chaque repertoire de type de donnée, il est possible de créer d'autres répertoire pour gérer d'autres type de contenus.
+Au sein de chaque repertoire de type de contenu, il est possible de créer d'autres répertoires pour gérer d'autres contenus (images, fichiers pdfs, etc.).
 
 ### Images
 Si vous avez besoin d'insérer des images dans vos article, vous pouvez créer un répertoire `images` dans votre dossier de type dans lequel vous placerez les images pour vos articles. Il vous suffiras ensuite [d'inserer l'image](docs/markdown#images) lors de la rédaction de votre article.
