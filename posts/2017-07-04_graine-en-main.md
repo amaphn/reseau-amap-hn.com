@@ -2,7 +2,7 @@
     date: 04-07-2017
     cover: 2017-07-04_graine-en-main.jpg
     excerpt: **bientôt un jardin d'insertion à Etainhus**, initié par les «*amap de la pointe de caux*» !
-    featured: true
+
 ---
 
 ![graine en main](images/2017-07-04_graine-en-main.jpg)
