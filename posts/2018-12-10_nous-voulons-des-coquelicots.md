@@ -1,4 +1,4 @@
-    title: Nous voulons des coquelicots
+    title: Nous voulons des coquelicots !
     cover: site-nous-voulons-des-coquelicots.jpg
     excerpt: Les AMAP soutiennent le mouvement...
 ---
