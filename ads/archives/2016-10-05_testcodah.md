@@ -1,5 +1,4 @@
 title: un Espace-test agricole
-    featured:
     
 ---
 
