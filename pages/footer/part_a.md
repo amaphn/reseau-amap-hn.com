@@ -5,20 +5,21 @@
 <div>
 <address>
 <p>
-	<strong>Réseau régional des AMAP de Haute-Normandie</strong><br>
+	<strong>Réseau des AMAP Haut Normand</strong><br>
 	Association loi 1901
 </p>
 <p>
-	340, rue des 4 amis<br>
-	76 230 Bois-Guillaume
+	Parc urbain de Repainville<br>
+	3b route de Lyons-la-Forêt<br>
+	76&nbsp;000 Rouen
 </p>
 </address>
 </div>
 <http://reseau-amap-hn.org>  
 <contact@reseau-amap-hn.com>  
-<a href="https://www.facebook.com/amap.hautenormandie" class="icon">
+<a href="https://www.facebook.com/reseau.amap.hautnormand" class="icon" title="@reseau.amap.hautnormand">
 	<span class="icon-facebook"></span>
-	@amap.hautenormandie
+	@reseau.amap.hautnormand
 </a>
 
  - [Statuts de l'association](statuts-de-lassociation)

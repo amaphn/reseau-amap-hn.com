@@ -1,4 +1,4 @@
 	title: Mentions complémentaire en bas de page
 ---
 
-© {{current_year}} Réseau régional des AMAP de Haute-Normandie
+© {{current_year}} Réseau des AMAP Haut Normand
