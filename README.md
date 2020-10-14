@@ -1,5 +1,5 @@
 ## Contribution
-Vous êtes libre de contribuer au contenu du [site Régional du réseau des AMAP de Haute-Normandie](http://reseau-amap-hn.com/), la condition est d'avoir sur Github.com.
+Vous êtes libre de contribuer au contenu du [site Régional du réseau des AMAP de Haute-Normandie](http://reseau-amap-hn.com/), la condition est d'avoir sur compte Github.com.
 
 Pour contribuer en [créant un ticket](https://github.com/amaphn/reseau-amap-hn.com/issues), ou en modifiant directement un fichier depuis l'interface de Github. 
 
