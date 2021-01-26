@@ -39,8 +39,4 @@ Télécharger les bulletins d'adhésions :
 
 [Télécharger le bulletin d'adhésion pour les AMAP](telechargements/bulletin-adhesion-amap-hn.pdf){.btn .btn-cta}
 [Télécharger le bulletin d'adhésion pour les producteurs](telechargements/bulletin-adhesion-producteur-amap-hn.pdf){.btn .btn-cta}
-
-
-
- 
-
+[Télécharger le bulletin d'adhésion Sympathisant](telechargements/bulletin-adhesion-sympathisant-amap-hn.pdf){.btn .btn-cta}
