@@ -8,6 +8,8 @@ backend:
 # npx netlify-cms-proxy-server
 local_backend: true
 locale: fr
+site_url: http://staging.reseau-amap-hn.com/?key=vcgZFowdrfHbdYBua2ahPQ
+custom_logo: http://staging.reseau-amap-hn.com/assets/logo/logo-amap-haut-normand-long.svg
 slug: 
   encoding: ascii
   # clean_accents: true
