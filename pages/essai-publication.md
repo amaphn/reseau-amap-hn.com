@@ -2,7 +2,7 @@
 title: " essai publication "
 draft: true
 ---
-# **Essai d'une publication** 
+# **Essai d'une publication**
 
 Ceci est un essai pour apprendre à utilise l'outil! nazertyuiopqsdfghjklwxcvbn!
 
@@ -13,3 +13,5 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 **\-bbbbb**
 
 **\-ttttttt**
+
+**C'est absolument magnifique cette nouvelle publication !**
