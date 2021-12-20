@@ -22,7 +22,7 @@ collections:
     folder: pages
     # cf. editorial_workflow
     # publish: false 
-    summary: "{{short_title | ternary({{title}}, {{short_title}})}} {{draft | ternary('✘', '✔︎')}}"
+    summary: "{{title}} {{draft | ternary('✘', '✔︎')}}"
     sortable_folder: ['title']
     view_filters:
       - label: Publié
