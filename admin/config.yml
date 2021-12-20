@@ -23,6 +23,7 @@ collections:
     description: Pages de premier niveau
     folder: pages
     media_folder: /pages/images
+    public_folder: /content/pages/images
     # cf. editorial_workflow
     # publish: false 
     summary: "{{title}} {{draft | ternary('✘', '✔︎')}}"
@@ -67,7 +68,8 @@ collections:
     folder: /pages/informations
     # slug: '{{slug}}'
     # path: '{{year}}/{{month}}/{{slug}}'
-    media_folder: /pages/images
+    media_folder: /pages/informations/images
+    public_folder: /content/pages/informations/images
     # summary: "{{dirname}}/{{filename}} ({{title}})"
     sortable_fields: ['title']
     view_filters:
