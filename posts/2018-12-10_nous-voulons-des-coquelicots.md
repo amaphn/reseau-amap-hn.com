@@ -1,7 +1,8 @@
 ---
 title: Nous voulons des coquelicots
-cover: site-nous-voulons-des-coquelicots.jpg
+date: 2021-12-20
 excerpt: Les AMAP soutiennent le mouvement...
+cover: /content/posts/images/site-nous-voulons-des-coquelicots.jpg
 ---
 
 
