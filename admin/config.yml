@@ -13,7 +13,7 @@ custom_logo: http://staging.reseau-amap-hn.com/assets/logo/logo-amap-haut-norman
 slug: 
   encoding: ascii
   # clean_accents: true
-media_folder: /content/telechargements
+media_folder: /telechargements
 public_folder: telechargements
 # publish_mode: editorial_workflow
 collections:
@@ -22,7 +22,7 @@ collections:
     label_singular: Page
     description: Pages de premier niveau
     folder: pages
-    media_folder: /content/pages/images
+    media_folder: /pages/images
     # cf. editorial_workflow
     # publish: false 
     summary: "{{title}} {{draft | ternary('✘', '✔︎')}}"
@@ -67,7 +67,7 @@ collections:
     folder: /pages/informations
     # slug: '{{slug}}'
     # path: '{{year}}/{{month}}/{{slug}}'
-    media_folder: content/pages/images
+    media_folder: /pages/images
     # summary: "{{dirname}}/{{filename}} ({{title}})"
     sortable_fields: ['title']
     view_filters:
@@ -121,7 +121,7 @@ collections:
     folder: posts
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     # path: '{{year}}/{{month}}/{{slug}}'
-    media_folder: /content/posts/images
+    media_folder: /posts/images
     summary: "{{title}} ({{filename}}) {{draft | ternary('✘', '✔︎')}}"
     sortable_fields: ['title', 'date', 'commit_date']
     view_filters:
