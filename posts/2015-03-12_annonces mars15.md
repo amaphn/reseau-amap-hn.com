@@ -1,5 +1,5 @@
+---
 Title: Agenda mars - avril !
-
 Date: 2015/03/12
 Author: Le Réseau des AMAP de Haute&#x2011;Normandie
 Cover: 10ans.png
@@ -35,4 +35,3 @@ Featured:
 *Si vous souhaitez faire parraitre vous aussi un message dans cette rubrique contactez-nous !* <contact@reseau-amap-hn.com>
 
  
-

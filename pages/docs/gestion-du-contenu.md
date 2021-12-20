@@ -1,9 +1,10 @@
-	title: Gestion du contenu
-	description: Documentation sur le gestionnaire de contenu FlatFile
-	author: Ziopod
-	date: 2015/07/10
-	license: {"name":"Creative commons CC BY 4.0", "url":"http://creativecommons.org/licenses/by/4.0/"}
-    ---
+---
+title: Docs / Gestion du contenu
+description: Documentation sur le gestionnaire de contenu FlatFile
+author: Ziopod
+date: 2015/07/10
+license: {"name":"Creative commons CC BY 4.0", "url":"http://creativecommons.org/licenses/by/4.0/"}
+---
 
 Le contenu éditoriale du site est géré par un gestionnaire de contenu sans base de données ([fichiers plat](https://fr.wikipedia.org/wiki/Base_de_donn%C3%A9es_orient%C3%A9e_texte)). Les données sont représentées sous formes de dossiers et de fichiers. Le document que vous consultez en ce moment est lui-même un fichier plat (Flatfile). Dans cette documentation, nous partirons du principe que vous êtes familier avec les bases de l'informatique (créer un dossier et un fichier, nommer un fichier, afficher et changer une extension de fichier, naviguer sur internet, etc.).
 

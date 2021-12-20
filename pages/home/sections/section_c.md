@@ -1,4 +1,5 @@
-	title : Le fonctionnement
+---
+title : Le fonctionnement
 ---
 # Le fonctionnement
 

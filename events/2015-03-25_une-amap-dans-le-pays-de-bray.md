@@ -1,4 +1,0 @@
-    title: Création d'AMAP dans le Pays de Bray
-    startdate: 2015-03-25 19:00
----
-Une Amap dans le Pays de Bray ? Avis aux consommateurs intéressés pour avoir accès à des produits biologiques, frais et locaux, et pour échanger sur la possibilité de se regrouper pour des livraisons de paniers de fruits et légumes provenant d’une ferme biologique à proximité, rdv à la salle des fêtes (rue des tourterelles) d’ETAIMPUIS - Cette soirée sera l’occasion de présenter les enjeux de l’alimentation biologique et locale. Le Réseau des Amap de Haute-Normandie présentera le fonctionnement d’une Amap. Cette présentation se terminera par un pot vers 20 h. Renseignements : contact@reseau-amap-hn.com

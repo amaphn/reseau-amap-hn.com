@@ -1,4 +1,5 @@
-	title: Ils nous soutiennent
+---
+title: Ils nous soutiennent
 ---
 
 <div class="logo-partners" markdown=1>

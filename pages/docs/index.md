@@ -1,4 +1,5 @@
-	Title: Documentation
+---
+title: Documentation
 ---
 
  - [Introduction](docs/introduction)

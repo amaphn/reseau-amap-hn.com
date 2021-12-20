@@ -1,5 +1,5 @@
+---
 Title: Bonne année 2015 !
-
 Date: 2015/01/23
 Author: Le Réseau des AMAP de Haute&#x2011;Normandie
 Cover: levacher.jpg
@@ -43,4 +43,3 @@ Les Associations pour le Maintien d'une Agriculture Paysanne (AMAP) réunissent 
 - si vous souhaitez faire parraitre vous aussi un message dans cette rubrique contactez-nous !<contact@reseau-amap-hn.com>
 
  
-

@@ -1,5 +1,5 @@
+---
 Title: Le chant des meules !
-
 Date: 2015/02/25
 Author: Le Réseau des AMAP de Haute&#x2011;Normandie
 Cover: 2ble.jpg
@@ -31,4 +31,3 @@ arrêt Couperin***
 - *si vous souhaitez faire parraitre vous aussi un message dans cette rubrique agenda ou dans les petites annonces contactez-nous !<contact@reseau-amap-hn.com>*
 
  
-

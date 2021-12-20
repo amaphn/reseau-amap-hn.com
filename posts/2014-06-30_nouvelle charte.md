@@ -1,5 +1,5 @@
+---
 Title: Les Amap de France se dotent d'une nouvelle Charte
-
 ---
 
 Voir le lien ci-dessous :

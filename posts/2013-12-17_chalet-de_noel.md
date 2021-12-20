@@ -1,3 +1,4 @@
+---
 Title: Le Réseau régional des Amap place de la Cathédrale 
 Short_title: du 23 au 29 décembre !
 Date: 2013/12/17

@@ -1,4 +1,5 @@
-	title : Les avantages
+---
+title : Les avantages
 ---
 # Les avantages
 

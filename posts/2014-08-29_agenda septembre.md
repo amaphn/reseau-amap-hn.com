@@ -1,5 +1,5 @@
+---
 Title: Agenda de septembre
-
 Date: 2014/09/03
 Author: Le Réseau des AMAP de Haute&#x2011;Normandie
 Cover: lehavre.jpg

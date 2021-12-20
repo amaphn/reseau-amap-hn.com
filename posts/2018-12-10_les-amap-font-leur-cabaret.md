@@ -1,7 +1,8 @@
-    title: « Les Amap font leur cabaret » 
-    cover: bandeau-cabaret.jpg
-    excerpt: **samedi 26 janvier : dès 19  h «Les Amap font leur cabaret»** 
-    featured: true
+---
+title: « Les Amap font leur cabaret » 
+cover: bandeau-cabaret.jpg
+excerpt: "**samedi 26 janvier : dès 19  h «Les Amap font leur cabaret»**" 
+featured: true
 ---
    
 **samedi 26 janvier : dès 19  h «Les Amap font leur cabaret»** 

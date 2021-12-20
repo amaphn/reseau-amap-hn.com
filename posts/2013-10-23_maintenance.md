@@ -1,8 +1,8 @@
+---
 title: notre site est en évolution !
-
 cover: arbres-brumes.jpg
 Date: 2013/10/29
-----
+---
 Si vous consultez notre site régulièrement, il ne vous aura pas échappé qu'il a changé d'aspect ! C'est suite à des problèmes techniques que nous l'avons refondu, mais nous y gagnons en simplicité d'utilisation. 
 
 ##Annuaire

@@ -1,0 +1,19 @@
+{
+  "links": [
+    {
+      "text": "Le réseau national des AMAP",
+      "url": "http://miramap.org/spip.php"
+    },
+    {
+      "url": "http://www.amap-bn.fr/",
+      "text": "Le réseau des AMAP de Basse-Normandie"
+    }
+  ],
+  "partners": [
+    {
+      "name": "Métropole Rouen Normandie",
+      "url": "http://www.metropole-rouen-normandie.fr/",
+      "logo": "telechargements/logo-metropole-rouen-normandie.png"
+    }
+  ]
+}

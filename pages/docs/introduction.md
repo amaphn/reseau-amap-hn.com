@@ -1,5 +1,6 @@
-    title: Introduction
-    ---
+---
+title: Introduction
+---
     
 Avant toute chose il convient de présenter les méthodes et technologies choisies pour l'édition du contenu rédactionnel du site du réseau régional des AMAP de Normandie.
 

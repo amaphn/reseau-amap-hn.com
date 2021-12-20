@@ -1,4 +1,5 @@
-	Title: Guide Markdown
+---
+title: Guide Markdown
 ---
 
 Markdown est un système de balisage léger, il vous permet de marquer (balisé) votre texte afin de mettre en valeur son contenu. À titre d'exemple ce docuement est complément présenté en syntaxe Markdown.

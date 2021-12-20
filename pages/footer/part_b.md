@@ -1,4 +1,5 @@
-	title: N'hésitez pas à consulter
+---
+title: N'hésitez pas à consulter
 ---
 
  - [Les recettes de stéphanie](http://duchampauxassiettes.over-blog.com/2015/04/les-recettes.html)
@@ -18,5 +19,3 @@
  - [Les p'tits paniers](https://amaplesptitspaniers.wordpress.com)
  - [L'AMAP d'Evreux](http://www.eureasso.fr/web/amap-d-evreux)
  - [L'AMAP de Conches](https://sites.google.com/site/amapdeconches/)
-
-

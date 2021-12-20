@@ -1,3 +1,4 @@
+---
 Title: on déguste au Réseau
 Date: 2015/04/20
 Author: Le Réseau des AMAP de Haute&#x2011;Normandie
@@ -18,4 +19,3 @@ Stéphanie Gomis auto-entrepreneuse, qui s'est lancée cette année dans cette s
 
 
  
-

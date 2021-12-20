@@ -1,4 +1,0 @@
-title: Un troubadour dans les labours ! 
-    ---
-   
-•	**Samedi 2 juillet : Un troubadour dans les labours !** chez un producteur en Amap à la Ferme Jamato - Hameau du Tôt 76280 **Gonneville-la-Mallet** 16 h démonstration de traction animale puis Inauguration du magasin à la ferme. 19 h 30. Concert apéritif avec Romain & Cie. "Un troubadour dans les labours" C’est l’histoire d’un gars... un brin timide, toujours rêveur, qui, croisant la route du grand Mano Solo, s’est lui aussi lancé dans l’écriture... à fleur de peau ! D'autres dates et lieux sur le [site des Défis ruraux](http://www.defis-ruraux.fr/images/stories/De-ferme-en-ferme/Ete2016/Flyer-ete-web.pdf)

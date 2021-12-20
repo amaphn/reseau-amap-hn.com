@@ -1,5 +1,5 @@
+---
 Title: Infographie : les Amap de Haute-Normandie
-
 Date: 2014/10/01
 Author: Le Réseau des AMAP de Haute&#x2011;Normandie
 Cover: Capture.jpg

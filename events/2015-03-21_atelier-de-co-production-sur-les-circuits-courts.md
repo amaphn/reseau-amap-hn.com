@@ -1,5 +1,0 @@
-    title: Atelier de co-production sur les circuits courts
-    startdate: 2015-03-21 14:00
-    location: La ferme des bouillons à Mont-Saint-Aignan
----
-Dans le cadre de la « Faites du Printemps » de la ferme des Bouillons à Mt St Aignan, le Réseau des Amap participera à l’«Atelier de co-production sur les circuits courts» . Le projet des Bouillons, c’est la remise en activité de la ferme, mais c’est aussi la création d’un point de vente de produits locaux de qualité. Lors de cet atelier, nous définirons à grand traits les circuits courts et la relocalisation alimentaire, avant de tâcher de définir ensemble, producteurs, consommateurs et animateurs de l’occupation, quelles sont nos attentes et nos volontés respectives. Reste du programme sur leur site : http://www.lafermedesbouillons.fr/faites-du-printemps-20-21-et-22-mars-2015/

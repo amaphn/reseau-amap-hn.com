@@ -1,5 +1,5 @@
+---
 Title: Agenda estival et petites annonces
-
 Date: 2014/07/01
 Author: Le Réseau des AMAP de Haute&#x2011;Normandie
 Cover: ag.jpg

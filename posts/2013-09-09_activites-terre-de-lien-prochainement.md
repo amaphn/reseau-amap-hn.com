@@ -1,9 +1,9 @@
-Date: 10/09/2013 06:44:19
-Author: Marie Mabille
-Title: Activités Terre de lien prochainement
-Slug: activites-terre-de-lien-prochainement
-Excerpt: L'association [Terre de Liens Normandie](http://www.terredeliensnormandie.org/) est arrivée sur le territoire haut-normand, il y a 4 ans. L'une des premières opérations a consisté à conforter le système d'exploitation de Clément LECHARTIER, basé à GONNEVILLE LA MALLET (Hameau le tôt) en maraîchage biologique et traction animale, en achetant les terres grâce à l'épargne solidaire et citoyenne.
-----
+---
+date: 10/09/2013 06:44:19
+author: Marie Mabille
+title: Activités Terre de lien prochainement
+excerpt: L'association [Terre de Liens Normandie](http://www.terredeliensnormandie.org/) est arrivée sur le territoire haut-normand, il y a 4 ans. L'une des premières opérations a consisté à conforter le système d'exploitation de Clément LECHARTIER, basé à GONNEVILLE LA MALLET (Hameau le tôt) en maraîchage biologique et traction animale, en achetant les terres grâce à l'épargne solidaire et citoyenne.
+---
 
 L'association [Terre de Liens Normandie](http://www.terredeliensnormandie.org/) est arrivée sur le territoire haut-normand, il y a 4 ans. L'une des premières opérations a consisté à conforter le système d'exploitation de Clément LECHARTIER, basé à GONNEVILLE LA MALLET (Hameau le tôt) en maraîchage biologique et traction animale, en achetant les terres grâce à l'épargne solidaire et citoyenne. Depuis, plusieurs actions ont émergé sur le territoire; certains étant faites avec nos partenaires locaux (Les Défis ruraux, le GRABHN, etc.): café-installations, veilles foncières citoyennes, etc. Clément, les AMAP qu'ils délivrent et l'association Terre de Liens Normandie ont le plaisir de vous inviter à participer à un chantier participatif de ramassage de pommes de terres et partager un repas le :
 

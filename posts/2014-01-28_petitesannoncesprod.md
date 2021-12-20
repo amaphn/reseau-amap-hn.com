@@ -1,5 +1,5 @@
+---
 Title: Petites annonces
-
 Date: 2014/01/28
 Author: Le Réseau des AMAP de Haute&#x2011;Normandie
 Cover: hiver.jpg
@@ -41,4 +41,3 @@ Emmanuel Houdré : 06 87 43 89 15 - contactereib@gmail.com
 - Les Amap de la Région cherchent des fruits en général, en agriculture biologique. SI vous avez un projet dans ce sens, merci de nous contacter : contact@reseau-amap-hn.com
 
 - Une future amap à Duclair ? Si ce projet vous intéresse, pour participer à sa création en tant qu’amapiens, contactez : contact@reseau-amap-hn.com
-

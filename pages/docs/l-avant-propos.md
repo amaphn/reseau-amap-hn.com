@@ -1,5 +1,6 @@
-    title: L'avant propos
-    ---
+---
+title: L'avant propos
+---
 
 Afin de mettre en valeur un contenu, vous pouvez spécifier des informations complémentaires dans l'*avant-propos* ("Front matter" en anglais ).
 

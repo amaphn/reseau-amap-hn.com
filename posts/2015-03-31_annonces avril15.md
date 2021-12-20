@@ -1,3 +1,4 @@
+---
 Title: Semaine sans pesticides
 Date: 2015/03/31
 Author: Le Réseau des AMAP de Haute&#x2011;Normandie
@@ -28,4 +29,3 @@ Les servir chaudes ou tièdes !
 *Si vous souhaitez faire parraitre vous aussi un message dans cette rubrique contactez-nous !* <contact@reseau-amap-hn.com>
 
  
-

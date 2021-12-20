@@ -1,8 +1,12 @@
-Title: Réseau des Associations de Maintien de l’Agriculture Paysanne Haut Normand
-Date:
-Author:
-Description: Statuts du réseau des Associations de Maintien de l’Agriculture Paysanne Haut Normand
-Credit: Creative commons
+---
+title: Réseau des Associations de Maintien de l’Agriculture Paysanne Haut Normand
+date: null
+Author: null
+description: Statuts du réseau des Associations de Maintien de l’Agriculture
+  Paysanne Haut Normand
+credit: Creative commons
+short_title: Réseau des AMAP HN
+draft: false
 ---
 
 ## Article 1 : Dénomination

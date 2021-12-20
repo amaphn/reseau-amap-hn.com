@@ -1,9 +1,9 @@
+---
 Title: Alternatibatez vous, dès ce week-end en Normandie !
 Date: 2015/09/10
 Author: Le Réseau des AMAP de Haute&#x2011;Normandie
 Cover: alter.jpg
 Excerpt: Oui, le climat est en train de changer. Des solutions existent, ... les alternatives. Le Réseau des Amap HN participe activement à ces villages des alternatives concrètes... Avec en toile de fond la COP21 de décembre à Paris. Samedi à Evreux, le premier des trois Alternatiba, ensuite Le Havre et enfin Rouen début octobre. Mais kes a ko ?
-
 featured:
 ---
 
@@ -23,8 +23,3 @@ Plus d'infos sur [https://alternatiba.eu/evreux/programme-2/](https://alternatib
 ## Rouen - samedi 3 et dimanche 4 octobre
 •	Alternatiba Rouen – Les Amap sont partenaires de la commission « Alimentation-agriculture » et seront sur les  quais rive droite. Au programme de cette partie du village : dégustations, un jeu télévisé presque en vrai, des mini-forum, débats sur l'agriculture, un marché de producteur.
 [https://alternatiba.eu/rouen/2015/09/06/demandez-le-programme/](https://alternatiba.eu/rouen/2015/09/06/demandez-le-programme/ "alternatiba rouen")
-
-
-
-
-

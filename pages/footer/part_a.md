@@ -1,7 +1,8 @@
-	title: AMAP HN
+---
+title: AMAP HN
 ---
 
-[Retour sur la page d'accueil](){.btn .btn-cta}
+[Réseau des AMAP Haut Normand](){.btn .btn-cta}
 <div>
 <address>
 <p>

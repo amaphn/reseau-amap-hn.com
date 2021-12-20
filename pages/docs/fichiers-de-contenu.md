@@ -1,5 +1,6 @@
-    title: Les fichiers de contenu
-	---
+---
+title: Docs / Les fichiers de contenu
+---
 
 **Sommaire**
 
