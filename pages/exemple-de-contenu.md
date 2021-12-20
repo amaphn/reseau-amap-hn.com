@@ -5,4 +5,4 @@ date: 2021-12-06
 ---
 Exemple de **contenu**
 
-![](/content/pages/images/fermiere-en-amap.png)
+![](content/telechargements/logo-metropole-rouen-normandie.png)
