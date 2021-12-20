@@ -6,12 +6,16 @@ draft: true
 
 Ceci est un essai pour apprendre à utilise l'outil! nazertyuiopqsdfghjklwxcvbn!
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt.
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-## **GGGGGGGGGG**
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbtttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+
+![](content/telechargements/forum-rouen.jpg)
+
+## **[GGGGGGGGGG](http://miramap.org/-Chantier-Accessibilite-alimentaire-et-pratiques-en-AMAP-.html)**
 
 **\-bbbbb**
 
 **\-ttttttt**
-
-**C'est absolument magnifique cette nouvelle publication !**
