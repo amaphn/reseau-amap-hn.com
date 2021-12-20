@@ -1,0 +1,256 @@
+backend:
+  # name: git-gateway
+  name: github
+  repo: amaphn/reseau-amap-hn.com
+  branch: staging
+# when using the default proxy server port
+# http://localhost/amap-directory/admin/#/collections/page
+# npx netlify-cms-proxy-server
+local_backend: true
+locale: fr
+slug: 
+  encoding: ascii
+  # clean_accents: true
+media_folder: content/telechargements
+public_folder: telechargements
+publish_mode: editorial_workflow
+collections:
+  - name: pages
+    label: Pages
+    label_singular: Page
+    description: Pages de premier niveau
+    folder: content/pages
+    # cf. editorial_workflow
+    # publish: false 
+    summary: "{{short_title | ternary({{title}}, {{short_title}})}} {{draft | ternary('✘', '✔︎')}}"
+    sortable_folder: ['title']
+    view_filters:
+      - label: Publié
+        field: draft
+        pattern: false
+      - label: Brouillon
+        field: draft
+        pattern: true
+    create: true
+    fields: 
+      - label: Contenu
+        name: body
+        widget: markdown
+        required: false
+      - label: Titre
+        name: title
+        widget: string
+        hint: Pour un titre SEO optimal, ne pas dépasser 70 caractères.
+      - label: Titre court
+        name: short_title
+        widget: string
+        required: false
+      - label: Description
+        name: description
+        hint: Pour une description SEO optimale, ne pas dépasser 160 carctères.
+        widget: text
+        required: false
+      - label: Brouillon
+        name: draft
+        widget: boolean
+        default: false
+        required: false
+  - name: informations
+    label: Informations
+    label_singular: Information
+    summary: "{{title}} {{draft | ternary('✘', '✔︎')}}"
+    description: >
+      Pages informations
+    folder: content/pages/informations
+    # slug: '{{slug}}'
+    # path: '{{year}}/{{month}}/{{slug}}'
+    media_folder: /content/pages/images
+    # summary: "{{dirname}}/{{filename}} ({{title}})"
+    sortable_fields: ['title']
+    view_filters:
+      - label: Brouillon
+        field: draft
+        pattern: true
+    create: true
+    # nested:
+    #   depth: 5
+    # # meta: { path: { widget: string, label: 'Path', default: '/', index_file: 'index' } }
+    fields:   
+      - label: Contenu
+        name: body
+        widget: markdown
+        required: false
+      - label: Titre
+        name: title
+        widget: string
+      - label: Titre court
+        name: short_title
+        widget: string
+        required: false
+      - label: Description
+        name: description
+        widget: text
+        required: false  
+      - label: Téléchargements
+        name: downloads
+        widget: list
+        summary: '{{text}}'
+        label_singular: Fichier
+        minimize_collapsed: true
+        required: false
+        fields:
+          - label: Texte
+            name: text
+            widget: string
+          - label: Fichier
+            name: path
+            widget: file
+      - label: Brouillon
+        name: draft
+        widget: boolean
+        default: false
+        required: false            
+  - name: blog
+    label: Articles
+    label_singular: Article
+    description: >
+      Pages standard
+    folder: content/posts
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    # path: '{{year}}/{{month}}/{{slug}}'
+    media_folder: /content/posts/images
+    summary: "{{title}} ({{filename}}) {{draft | ternary('✘', '✔︎')}}"
+    sortable_fields: ['title', 'date', 'commit_date']
+    view_filters:
+      - label: Brouillon
+        field: draft
+        pattern: true
+    view_groups:
+      - label: Année
+        field: date
+        pattern: \d{4}
+    create: true
+    # nested:
+      # depth: 5
+    # meta: { path: { widget: string, label: 'Path', default: '/', index_file: 'index' } }
+    fields: 
+      - label: Contenu
+        name: body
+        widget: markdown
+        required: false
+      - label: Mettre en avant
+        name: featured
+        widget: boolean
+        default: false
+        required: false
+      - label: Titre
+        name: title
+        widget: string
+      - label: Titre court
+        name: short_title
+        widget: string
+        required: false
+      - label: Date de publication
+        name: date
+        widget: date
+        dateFormat: YYYY-MM-DD
+        format: YYYY-MM-DD
+      - label: Extrait
+        name: excerpt
+        widget: text
+        required: false
+      - label: Description
+        name: description
+        widget: text
+        required: false
+      - label: Couverture
+        name: cover
+        widget: file
+        required: false
+      - label: Brouillon
+        name: draft
+        widget: boolean
+        default: false
+        required: false
+  - label: Configuration
+    name: configuration
+    description: Configuration globale du site
+    files: 
+      - label: Générale
+        name: global
+        file: content/configuration/global.json
+        editor: 
+          preview: false
+        fields:
+          - label: Nom
+            name: name
+            widget: string
+          - label: URL
+            name: url
+            widget: string
+          - label: Email
+            name: email
+            widget: string
+            required: false
+          - label: Facebook
+            name: facebook
+            widget: string
+            required: false
+          - label: Adresse
+            name: address
+            widget: object
+            minimize_collapsed: true
+            fields:
+              - label: Nom
+                name: name
+                widget: string
+                required: false
+              - label: Rue
+                name: street
+                widget: string
+                required: false
+              - label: Code postal
+                name: zipcode
+                widget: string
+                required: false
+              - label: Ville
+                name: city
+                widget: string
+                required: false
+      - label: Pied de page
+        name: footer
+        file: content/configuration/footer.json
+        editor:
+          preview: false
+        fields:
+          - label: Liens
+            name: links
+            widget: list
+            summary: '{{text}}'
+            label_singular: Lien
+            minimize_collapsed: true
+            required: false
+            fields: 
+              - label: Texte
+                name: text
+                widget: string
+              - label: URL
+                name: url
+                widget: string
+          - label: Partenaires
+            name: partners
+            widget: list
+            summary: '{{name}}'
+            label_singular: Partenaire
+            minimize_collapsed: true
+            required: false
+            fields:
+              - label: Nom
+                name: name
+                widget: string
+              - label: Logo
+                name: logo
+                widget: file
+              - label: URL
+                name: url
+                widget: string
