@@ -22,7 +22,6 @@ collections:
     label_singular: Page
     description: Pages de premier niveau
     folder: pages
-    media_folder: content/pages/images
     # cf. editorial_workflow
     # publish: false 
     summary: "{{title}} {{draft | ternary('✘', '✔︎')}}"
@@ -67,7 +66,7 @@ collections:
     folder: pages/informations
     # slug: '{{slug}}'
     # path: '{{year}}/{{month}}/{{slug}}'
-    media_folder: content/pages/images
+    media_folder: pages/images
     # summary: "{{dirname}}/{{filename}} ({{title}})"
     sortable_fields: ['title']
     view_filters:
@@ -121,7 +120,7 @@ collections:
     folder: posts
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     # path: '{{year}}/{{month}}/{{slug}}'
-    media_folder: content/posts/images
+    media_folder: /posts/images
     summary: "{{title}} ({{filename}}) {{draft | ternary('✘', '✔︎')}}"
     sortable_fields: ['title', 'date', 'commit_date']
     view_filters:
