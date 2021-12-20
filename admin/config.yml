@@ -13,7 +13,7 @@ custom_logo: http://staging.reseau-amap-hn.com/assets/logo/logo-amap-haut-norman
 slug: 
   encoding: ascii
   # clean_accents: true
-media_folder: /telechargements
+media_folder: telechargements
 public_folder: telechargements
 # publish_mode: editorial_workflow
 collections:
@@ -122,6 +122,7 @@ collections:
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     # path: '{{year}}/{{month}}/{{slug}}'
     media_folder: /posts/images
+    public_folder: /content/posts/images
     summary: "{{title}} ({{filename}}) {{draft | ternary('✘', '✔︎')}}"
     sortable_fields: ['title', 'date', 'commit_date']
     view_filters:
