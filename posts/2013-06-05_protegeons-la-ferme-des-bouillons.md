@@ -3,12 +3,12 @@ title: Les AMAP de Haute&#x2011;Normandie soutiennent la ferme des Bouillons
 short_title: Protégeons la ferme des Bouillons
 date: 2013/06/05
 author: Le Réseau des AMAP de Haute&#x2011;Normandie
-cover: /posts/images/la-ferme-des-bouillons-cadastre.jpg
+cover: /content/posts/images/la-ferme-des-bouillons-cadastre.jpg
 credit: Creative commons
 ---
 Le Réseau des Amap de Haute-Normandie ne peut que soutenir l’Association de Protection de la Ferme des Bouillons à Mt St Aignan. En effet, les Amap ont dans leurs fondements même la préservation d’une agriculture de proximité d’où leur nom Association de Maintien de l’Agriculture Paysanne.
 
-![](/posts/images/la-ferme-des-bouillons-illustration.jpg)
+![](/content/posts/images/la-ferme-des-bouillons-illustration.jpg)
 
 <span class="legend">Défendons l'agriculture périurbaine</span>
 
