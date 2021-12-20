@@ -11,15 +11,15 @@ locale: fr
 slug: 
   encoding: ascii
   # clean_accents: true
-media_folder: content/telechargements
-public_folder: telechargements
+media_folder: telechargements
+public_folder: content/telechargements
 publish_mode: editorial_workflow
 collections:
   - name: pages
     label: Pages
     label_singular: Page
     description: Pages de premier niveau
-    folder: content/pages
+    folder: pages
     # cf. editorial_workflow
     # publish: false 
     summary: "{{short_title | ternary({{title}}, {{short_title}})}} {{draft | ternary('✘', '✔︎')}}"
@@ -61,10 +61,10 @@ collections:
     summary: "{{title}} {{draft | ternary('✘', '✔︎')}}"
     description: >
       Pages informations
-    folder: content/pages/informations
+    folder: pages/informations
     # slug: '{{slug}}'
     # path: '{{year}}/{{month}}/{{slug}}'
-    media_folder: /content/pages/images
+    media_folder: pages/images
     # summary: "{{dirname}}/{{filename}} ({{title}})"
     sortable_fields: ['title']
     view_filters:
@@ -115,10 +115,10 @@ collections:
     label_singular: Article
     description: >
       Pages standard
-    folder: content/posts
+    folder: posts
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     # path: '{{year}}/{{month}}/{{slug}}'
-    media_folder: /content/posts/images
+    media_folder: /posts/images
     summary: "{{title}} ({{filename}}) {{draft | ternary('✘', '✔︎')}}"
     sortable_fields: ['title', 'date', 'commit_date']
     view_filters:
@@ -178,7 +178,7 @@ collections:
     files: 
       - label: Générale
         name: global
-        file: content/configuration/global.json
+        file: configuration/global.json
         editor: 
           preview: false
         fields:
@@ -219,7 +219,7 @@ collections:
                 required: false
       - label: Pied de page
         name: footer
-        file: content/configuration/footer.json
+        file: configuration/footer.json
         editor:
           preview: false
         fields:
