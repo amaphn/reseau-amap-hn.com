@@ -1,6 +1,7 @@
     title: Un nouveau local pour le réseau des AMAP
     cover: maisonnette-de-repainville-couverture.jpg
     excerpt: Nouveau siège socual pour le réseau régional des AMAP Haut Normand
+    featured: true
 ---
 
 ![Maisonnette à Repainville, Rouen]({{media_url}}maisonnette-de-repainville.jpg)
