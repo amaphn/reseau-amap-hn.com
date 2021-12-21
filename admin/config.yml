@@ -128,6 +128,9 @@ collections:
     summary: "{{title}} ({{filename}}) {{draft | ternary('✘', '✔︎')}}"
     sortable_fields: ['title', 'date', 'commit_date']
     view_filters:
+      - label: Mis en avant
+        field: featured
+        pattern: true
       - label: Brouillon
         field: draft
         pattern: true
