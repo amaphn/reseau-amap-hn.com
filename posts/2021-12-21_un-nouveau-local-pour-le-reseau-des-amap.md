@@ -4,7 +4,7 @@
     featured: true
 ---
 
-![Maisonnette à Repainville, Rouen]({{media_url}}maisonnette-de-repainville.jpg)
+![Maisonnette à Repainville, Rouen](images/maisonnette-de-repainville.jpg)
 
 Le siège social du [réseau des AMAP Haut Normand](http://reseau-amap-hn.com) est installé au Parc Urbain Naturel de Repainville au 3B Route de Lyons à Rouen. 
 
