@@ -4,8 +4,6 @@ cover: Giuseppe-Arcimboldo-Autumn.jpg
 summary: Le Réseau régional des Amap sera présent (entre autre !) sur ces différents évènements dans la Région. Dès ce week-end, venez nous rencontrer !
 ---
 
-
-
 **Samedi 28 septembre - la ferme des Bouillons** (Mt St Aignan) va organiser son tout premier grand festival, LA TAMBOUILLE : musique, art de la rue, débats, cuisine et ateliers variés (massages, langue des signes, clownerie…) et un village associatif et militant auquel nous sommes invités à tenir un stand l'après-midi. [Plus d'infos sur le programme](http://fermedesbouillons.blogspot.fr/p/blog-page_29.html). 
 
 A noter que le dimanche Marc Dufumier tiendra une conférence sur "Quelle agriculture pour nourir durablement les hommes ?".
