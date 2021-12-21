@@ -1,10 +1,10 @@
 ---
-Title: on déguste au Réseau
-Date: 2015/04/20
-Author: Le Réseau des AMAP de Haute&#x2011;Normandie
-Cover: yvetot.jpg
-Excerpt: Le Réseau des Amap de Haute-Normandie, se lance cette année ! Création de nouvelles Amap, ateliers cuisine (pour les adhérents, actuels ou futurs !), dégustation de produits bio et locaux sur les stands (içi à Yvetôt lors du marché fermier du 4 avril). Explications ...
-Featured:
+title: on déguste au Réseau
+date: 2015/04/20
+author: Le Réseau des AMAP de Haute&#x2011;Normandie
+cover: yvetot.jpg
+summary: Le Réseau des Amap de Haute-Normandie, se lance cette année ! Création de nouvelles Amap, ateliers cuisine (pour les adhérents, actuels ou futurs !), dégustation de produits bio et locaux sur les stands (içi à Yvetôt lors du marché fermier du 4 avril). Explications ...
+featured: false
 ---
 
 

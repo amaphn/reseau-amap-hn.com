@@ -1,10 +1,10 @@
 ---
-Title: Le chant des meules !
-Date: 2015/02/25
-Author: Le Réseau des AMAP de Haute&#x2011;Normandie
-Cover: 2ble.jpg
-Excerpt: Le Chant des meules et l'assemblée générale du Réseau des Amap. Le samedi 14 mars, nous serons rassemblés pour notre AG annuelle sur les Hauts de ROuen. L'occasion de parler agriculture, alimentation, avenir ...
-Featured:
+title: Le chant des meules !
+date: 2015/02/25
+author: Le Réseau des AMAP de Haute&#x2011;Normandie
+cover: 2ble.jpg
+summary: Le Chant des meules et l'assemblée générale du Réseau des Amap. Le samedi 14 mars, nous serons rassemblés pour notre AG annuelle sur les Hauts de ROuen. L'occasion de parler agriculture, alimentation, avenir ...
+featured: false
 ---
 
 Comme chaque année, les producteurs en Amap sont invités à notre Assemblée générale. Ce 14 mars nous avons proposé à un jeune installant "paysan-boulanger" de venir faire gouter ses pains et rencontrer les Amap. Il s'agit de David Nadaud. 

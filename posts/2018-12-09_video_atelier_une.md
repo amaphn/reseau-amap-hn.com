@@ -1,9 +1,9 @@
 ---
-Title: un atelier cuisine en image ! 
-Date: 2018/12/09
-Author: Le Réseau des AMAP de Haute&#x2011;Normandie
-Cover: atelier_aout_16.jpg
-Excerpt:  vidéo d'un atelier cuisine, animé par stéphanie gomis
+title: un atelier cuisine en image ! 
+date: 2018/12/09
+author: Le Réseau des AMAP de Haute&#x2011;Normandie
+cover: atelier_aout_16.jpg
+summary:  vidéo d'un atelier cuisine, animé par stéphanie gomis
 featured: true
 ---
 

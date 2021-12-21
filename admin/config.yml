@@ -121,7 +121,7 @@ collections:
     description: >
       Pages standard
     folder: posts
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{year}}-{{month}}-{{day}}_{{slug}}'
     # path: '{{year}}/{{month}}/{{slug}}'
     media_folder: /posts/images
     public_folder: /content/posts/images
@@ -162,7 +162,7 @@ collections:
         dateFormat: YYYY-MM-DD
         format: YYYY-MM-DD
       - label: Extrait
-        name: excerpt
+        name: summary
         widget: text
         required: false
       - label: Description

@@ -1,10 +1,10 @@
 ---
-Title: Alternatibatez vous, dès ce week-end en Normandie !
-Date: 2015/09/10
-Author: Le Réseau des AMAP de Haute&#x2011;Normandie
-Cover: alter.jpg
-Excerpt: Oui, le climat est en train de changer. Des solutions existent, ... les alternatives. Le Réseau des Amap HN participe activement à ces villages des alternatives concrètes... Avec en toile de fond la COP21 de décembre à Paris. Samedi à Evreux, le premier des trois Alternatiba, ensuite Le Havre et enfin Rouen début octobre. Mais kes a ko ?
-featured:
+title: Alternatibatez vous, dès ce week-end en Normandie !
+date: 2015/09/10
+author: Le Réseau des AMAP de Haute&#x2011;Normandie
+cover: alter.jpg
+summary: Oui, le climat est en train de changer. Des solutions existent, ... les alternatives. Le Réseau des Amap HN participe activement à ces villages des alternatives concrètes... Avec en toile de fond la COP21 de décembre à Paris. Samedi à Evreux, le premier des trois Alternatiba, ensuite Le Havre et enfin Rouen début octobre. Mais kes a ko ?
+featured: false
 ---
 
 Pour découvrir ce qu'est Alternatiba, une petite vidéo made in normandy, c'est pas mal !

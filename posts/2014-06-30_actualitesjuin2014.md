@@ -1,9 +1,9 @@
 ---
-Title:  Rapport d’activité Réseau des Amap de Haute-Normandie
-Short_title: AG suite ...
-Date: 2014/06/30
-Author: Le Réseau des AMAP de Haute&#x2011;Normandie
-Credit: Creative commons
+title:  Rapport d’activité Réseau des Amap de Haute-Normandie
+short_title: AG suite ...
+date: 2014/06/30
+author: Le Réseau des AMAP de Haute&#x2011;Normandie
+credit: Creative commons
 ---
 
 Le Réseau des Amap de Haute-Normandie a tenu son assemblée générale au Havre fin mars dernier, du monde beaucoup de monde au rendez-vous et de l'énergie pour repartir pour un an ! Nous vous livrons le rapport d'activité résumé.

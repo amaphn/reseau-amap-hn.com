@@ -1,10 +1,10 @@
 ---
-Title: Les Amap ont sorti de leur panier
-Date: 2015/06/17
-Author: Le Réseau des AMAP de Haute&#x2011;Normandie
-Cover: verres.jpg
-Excerpt: des Graines de jardin, un repas solaire, des madeleines aux fânes de radis, un passage télé nationale en prévision ... Un printemps comme on les aime au Réseau. Retour en images !
-featured:
+title: Les Amap ont sorti de leur panier
+date: 2015/06/17
+author: Le Réseau des AMAP de Haute&#x2011;Normandie
+cover: verres.jpg
+summary: des Graines de jardin, un repas solaire, des madeleines aux fânes de radis, un passage télé nationale en prévision ... Un printemps comme on les aime au Réseau. Retour en images !
+featured: false
 ---
 
 Un printemps comme on les aime au Réseau. Retour en images !

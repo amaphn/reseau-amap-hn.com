@@ -1,10 +1,10 @@
 ---
-Title: Agenda mars - avril !
-Date: 2015/03/12
-Author: Le Réseau des AMAP de Haute&#x2011;Normandie
-Cover: 10ans.png
-Excerpt: Le printemps arrive, les rayons du soleil nous réchauffent. Hmm pas désagréable ! Et les rendez-vous militants s'enchainent. Jetez un coup d'oeil à notre agenda. Cela commence samedi avec notre AG ! Les Amap ont 10 ans dans la région Haute-Normandie !
-Featured:
+title: Agenda mars - avril !
+date: 2015/03/12
+author: Le Réseau des AMAP de Haute&#x2011;Normandie
+cover: 10ans.png
+summary: Le printemps arrive, les rayons du soleil nous réchauffent. Hmm pas désagréable ! Et les rendez-vous militants s'enchainent. Jetez un coup d'oeil à notre agenda. Cela commence samedi avec notre AG ! Les Amap ont 10 ans dans la région Haute-Normandie !
+featured: false
 ---
 
 

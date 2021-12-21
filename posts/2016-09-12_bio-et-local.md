@@ -1,10 +1,10 @@
 ---
 title: Bio et local, c'est l'idéal !
-Date: 2016/09/12
-Author: Le Réseau des AMAP de Haute&#x2011;Normandie
-Cover: bio-et-local-affiche-fnab-2016.jpg
-Excerpt: Manger bio et local toute l'année dans votre entreprise ou collectivités ?? et 199 autres événements en normandie ...
-featured:
+date: 2016/09/12
+author: Le Réseau des AMAP de Haute&#x2011;Normandie
+cover: bio-et-local-affiche-fnab-2016.jpg
+summary: Manger bio et local toute l'année dans votre entreprise ou collectivités ?? et 199 autres événements en normandie ...
+featured: false
 ---
    
 **Mercredi 21 septembre - Manger bio et local toute l'année dans votre entreprise ou collectivités ?**

@@ -1,8 +1,8 @@
 ---
 title: Graines de jardin
-date: 05-05-2017
+date: 2017-05-05
 cover: 2017-05-05_graines-de-jardin-couverture.jpg
-excerpt: **Le week-end du 20 au 21 mai de 10h à 19h**, venez découvir « *un monde de senteurs* » le thème du festival « *Graines de jardin* » à Rouen.
+summary: "**Le week-end du 20 au 21 mai de 10h à 19h**, venez découvir « *un monde de senteurs* » le thème du festival « *Graines de jardin* » à Rouen."
 ---
 
 ![Visuel Graine de Jardin 2017](images/2017-05-05_graines-de-jardin.jpg)

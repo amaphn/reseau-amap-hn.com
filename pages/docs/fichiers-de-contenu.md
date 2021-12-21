@@ -18,7 +18,7 @@ Voici un exemple de fichier de contenu :
 
 ~~~
     title: Bonjour, voici mon premier article
-    excerpt: C'est un extrait d'Alice au pays de Merveilles.
+    summary: C'est un extrait d'Alice au pays de Merveilles.
     author: Ziopod@gmail.com
     ---
 

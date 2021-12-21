@@ -1,7 +1,7 @@
 ---
 title: un automne en mouvement pour le Réseau des AMAP 
 cover: Giuseppe-Arcimboldo-Autumn.jpg
-excerpt: *Le Réseau régional des Amap sera présent (entre autre !) sur ces différents évènements dans la Région. Dès ce week-end, venez nous rencontrer !*
+summary: Le Réseau régional des Amap sera présent (entre autre !) sur ces différents évènements dans la Région. Dès ce week-end, venez nous rencontrer !
 ---
 
 

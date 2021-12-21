@@ -1,10 +1,10 @@
 ---
-Title: Petites annonces
-Date: 2014/01/28
-Author: Le Réseau des AMAP de Haute&#x2011;Normandie
-Cover: hiver.jpg
-Excerpt: Le Réseau des Amap de Haute-Normandie vous propose quelques annonces qui nous sont parvenues.
-Featured:
+title: Petites annonces
+date: 2014/01/28
+author: Le Réseau des AMAP de Haute&#x2011;Normandie
+cover: hiver.jpg
+summary: Le Réseau des Amap de Haute-Normandie vous propose quelques annonces qui nous sont parvenues.
+featured: false
 ---
 
 Au fur et à mesur, nous recueillons vos demandes et ce site a pour vocation de faire circuler l'information entre producteurs et amapiens. A ce jour, voici les informations qui nous sont parvenues à faire paraitre. N'hésitez pas vous aussi à nous solliciter !(contact@reseau-amap-hn.com)

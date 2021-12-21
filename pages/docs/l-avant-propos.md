@@ -34,7 +34,7 @@ Le titre est important, ce titre sera exploité par les agents utilisateur. Par 
 
 ### Extrait
 ~~~
-  excerpt: Cette description résume bien le contenu de mon article.
+  summary: Cette description résume bien le contenu de mon article.
 ~~~
 
 Un court résumé du contenu. L'extrait est capital pour la présentation du contenu par les moteurs de recherche. Il permet également de présenter l'article de façon attirante dans les index de contenu (sur la page d'accueil, sur l'index d'un blog ou sur une page d'archive par exemple).

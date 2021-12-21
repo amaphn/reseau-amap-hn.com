@@ -1,10 +1,10 @@
 ---
-Title: Agenda Mars 2014 
-Date: 2014/02/28
-Author: Le Réseau des AMAP de Haute&#x2011;Normandie
+title: Agenda Mars 2014 
+date: 2014/02/28
+author: Le Réseau des AMAP de Haute&#x2011;Normandie
 cover: pommiers.jpg
-Excerpt: Le Réseau vous propose en mars ...
-Featured:
+summary: Le Réseau vous propose en mars ...
+featured: false
 ----
 Ca sent le printemps, le Réseau se fait l'échos d'initiatives locales, n'hésitez pas à nous envoyer vos infos nous les relayerons avec plaisir.
 

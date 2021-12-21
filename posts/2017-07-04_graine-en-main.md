@@ -1,8 +1,8 @@
 ---
 title: Graine en main
-date: 04-07-2017
+date: 2017-07-04
 cover: 2017-07-04_graine-en-main.jpg
-excerpt: **financement participatif pour le jardin d'insertion à Etainhus**
+summary: "**financement participatif pour le jardin d'insertion à Etainhus**"
 ---
 
 ![graine en main](images/2017-07-04_graine-en-main.jpg)

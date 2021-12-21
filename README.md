@@ -32,7 +32,7 @@ Paramètre | Format | Description
 `Date`          | JJ/MM/AAAA HH:MM:SS  | Date de publication de l'article
 `Author`        | texte	cout            | Nom de l'auteur de l'article
 `Cover`         | nom de fichier image | Image de couverture de l'article
-`Excerpt`       | texte long           | Résumé de l'article 	
+`summary`       | texte long           | Résumé de l'article 	
 
 `Published`			| boolean		| Indique que l'article ne doit pas être affiché sur le site
 `License`		| url					| Nom et adresse de la license sous laquelle est publié l'article
@@ -45,7 +45,7 @@ Paramètre | Format | Description
 	Date: 2013/06/05 : 06:44:19
 	Author: [Le Réseau des AMAP de Haute&#x2011;Normandie](contact@reseau-amap-normandie.com)
 	Cover: la-ferme-des-bouillons.jpg
-	Excerpt: Le Réseau des Amap de Haute-Normandie ne peut que soutenir l’Association de Protection de la Ferme des Bouillons à Mt St Aignan. En effet, les Amap ont dans leurs fondements même la préservation d’une agriculture de proximité d’où leur nom Association de Maintien de l’Agriculture Paysanne.
+	summary: Le Réseau des Amap de Haute-Normandie ne peut que soutenir l’Association de Protection de la Ferme des Bouillons à Mt St Aignan. En effet, les Amap ont dans leurs fondements même la préservation d’une agriculture de proximité d’où leur nom Association de Maintien de l’Agriculture Paysanne.
 	Draft: true
 	Credit: [Creative commons BY-SA](http://creativecommons.org/licenses/by-sa/3.0/deed.fr)
 	Slug: protegeons-la-ferme-des-bouillons

@@ -1,10 +1,10 @@
 ---
-Title: Agenda de septembre
-Date: 2014/09/03
-Author: Le Réseau des AMAP de Haute&#x2011;Normandie
-Cover: lehavre.jpg
-Excerpt: Les Amap de Haute-Normandie répondent présentes pour cette rentrée. Lieux où vous pourrez retrouver des stands des Amap ou du Réseau des Amap de Haute-Normandie 
-Featured:
+title: Agenda de septembre
+date: 2014/09/03
+author: Le Réseau des AMAP de Haute&#x2011;Normandie
+cover: lehavre.jpg
+summary: Les Amap de Haute-Normandie répondent présentes pour cette rentrée. Lieux où vous pourrez retrouver des stands des Amap ou du Réseau des Amap de Haute-Normandie 
+featured: false
 ---
 
 

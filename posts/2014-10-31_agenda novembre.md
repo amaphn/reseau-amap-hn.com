@@ -1,10 +1,10 @@
 ---
-Title: Agenda de novembre 2014
-Date: 2014/10/31
-Author: Le Réseau des AMAP de Haute&#x2011;Normandie
-Cover: terrerouenfete.jpg
-Excerpt: Alors en novembre on fait de la cuisine et des soupes, ça vous dit ? 
-Featured:
+title: Agenda de novembre 2014
+date: 2014/10/31
+author: Le Réseau des AMAP de Haute&#x2011;Normandie
+cover: terrerouenfete.jpg
+summary: Alors en novembre on fait de la cuisine et des soupes, ça vous dit ? 
+featured: false
 ---
 
 **Mercredi 5 novembre de 18 h à 19 h – L’AMAP « Les Paniers de Bernay**» organise une fête de la soupe sous le marché couvert - place Sainte Croix pour sensibiliser à l'intérêt d'une alimentation saine, équilibrée, économique, et inciter les consommateurs à faire eux-mêmes potages, soupes, veloutés etc....ouverte à tous  et à l'heure habituelle de distribution des paniers et à l'heure de la soupe.... !!

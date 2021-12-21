@@ -1,10 +1,10 @@
 ---
-Title: Agenda estival et petites annonces
-Date: 2014/07/01
-Author: Le Réseau des AMAP de Haute&#x2011;Normandie
-Cover: ag.jpg
-Excerpt: Petites annonces et agenda de l'été jusqu'en septembre
-Featured:
+title: Agenda estival et petites annonces
+date: 2014/07/01
+author: Le Réseau des AMAP de Haute&#x2011;Normandie
+cover: ag.jpg
+summary: Petites annonces et agenda de l'été jusqu'en septembre
+featured: false
 ---
 
 **Samedi 5 juillet 2014 : La ferme aux Amaranthes** (producteur en Amp) organise une **Soirée théâtre/repas bio / musique du monde :**

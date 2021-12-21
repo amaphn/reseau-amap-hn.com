@@ -1,9 +1,9 @@
 ---
-Title: Bonne année 2015 !
-Date: 2015/01/23
-Author: Le Réseau des AMAP de Haute&#x2011;Normandie
-Cover: levacher.jpg
-Excerpt: Tout d'abord, bonne année à tous ! On commence 2015, avec des liens entre producteurs - amapiens, des liens entre les hommes et femmes de cette région. C'est l'objectif de cette page "petites annonces", mettre en lien, ceux qui ont des produits à offrir en Amap, et vous amapiens soucieux de manger sainement. Vous trouverez aussi des annonces de futurs consommateurs qui se regroupent pour monter des Amap, et encore des dates de rencontres, ... du lien, je vous disais, car l'Amap ce n'est pas qu'un panier !  
+title: Bonne année 2015 !
+date: 2015/01/23
+author: Le Réseau des AMAP de Haute&#x2011;Normandie
+cover: levacher.jpg
+summary: Tout d'abord, bonne année à tous ! On commence 2015, avec des liens entre producteurs - amapiens, des liens entre les hommes et femmes de cette région. C'est l'objectif de cette page "petites annonces", mettre en lien, ceux qui ont des produits à offrir en Amap, et vous amapiens soucieux de manger sainement. Vous trouverez aussi des annonces de futurs consommateurs qui se regroupent pour monter des Amap, et encore des dates de rencontres, ... du lien, je vous disais, car l'Amap ce n'est pas qu'un panier !  
 
 ---
 

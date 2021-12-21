@@ -1,10 +1,10 @@
 ---
-Title: Semaine sans pesticides
-Date: 2015/03/31
-Author: Le Réseau des AMAP de Haute&#x2011;Normandie
-Cover: rue.jpg
-Excerpt: Une Salle comble à Etaimpuis pour créer une Amap 100 % rurale, ....et notre première participation à la "Semaine sans pesticides", avec le groupe local de Greenpeace samedi 28 mars. Ces rencontres nous donnent envie de continuer à avancer pour communiquer sur nos valeurs, mettre en avant les produits bio ... et de façon ludique (dégustations, recettes, ...) !   
-Featured:
+title: Semaine sans pesticides
+date: 2015/03/31
+author: Le Réseau des AMAP de Haute&#x2011;Normandie
+cover: rue.jpg
+summary: Une Salle comble à Etaimpuis pour créer une Amap 100 % rurale, ....et notre première participation à la "Semaine sans pesticides", avec le groupe local de Greenpeace samedi 28 mars. Ces rencontres nous donnent envie de continuer à avancer pour communiquer sur nos valeurs, mettre en avant les produits bio ... et de façon ludique (dégustations, recettes, ...) !   
+featured: false
 ---
 
 
