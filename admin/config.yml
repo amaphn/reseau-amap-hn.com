@@ -6,7 +6,7 @@ backend:
 # when using the default proxy server port
 # http://localhost/amap-directory/admin/#/collections/page
 # npx netlify-cms-proxy-server
-local_backend: true
+# local_backend: true
 locale: fr
 site_url: http://staging.reseau-amap-hn.com/?key=vcgZFowdrfHbdYBua2ahPQ
 custom_logo: http://staging.reseau-amap-hn.com/assets/logo/logo-amap-haut-normand-long.svg
@@ -37,25 +37,25 @@ collections:
         pattern: true
     create: true
     fields: 
-      - label: Contenu
-        name: body
+      - name: body
+        label: Contenu
         widget: markdown
         required: false
-      - label: Titre
-        name: title
+      - name: title
+        label: Titre
         widget: string
         hint: Pour un titre SEO optimal, ne pas dépasser 70 caractères.
-      - label: Titre court
-        name: short_title
+      - name: short_title
+        label: Titre court
         widget: string
         required: false
-      - label: Description
-        name: description
+      - name: description
+        label: Description
         hint: Pour une description SEO optimale, ne pas dépasser 160 carctères.
         widget: text
         required: false
-      - label: Brouillon
-        name: draft
+      - name: draft
+        label: Brouillon
         widget: boolean
         default: false
         required: false
@@ -81,37 +81,37 @@ collections:
     #   depth: 5
     # # meta: { path: { widget: string, label: 'Path', default: '/', index_file: 'index' } }
     fields:   
-      - label: Contenu
-        name: body
+      - name: body
+        label: Contenu
         widget: markdown
         required: false
-      - label: Titre
-        name: title
+      - name: title
+        label: Titre
         widget: string
-      - label: Titre court
-        name: short_title
+      - name: short_title
+        label: Titre court
         widget: string
         required: false
-      - label: Description
-        name: description
+      - name: description
+        label: Description
         widget: text
         required: false  
-      - label: Téléchargements
-        name: downloads
+      - name: downloads
+        label: Téléchargements
         widget: list
         summary: '{{text}}'
         label_singular: Fichier
         minimize_collapsed: true
         required: false
         fields:
-          - label: Texte
-            name: text
+          - name: text
+            label: Texte
             widget: string
-          - label: Fichier
-            name: path
+          - name: path
+            label: Fichier
             widget: file
-      - label: Brouillon
-        name: draft
+      - name: draft
+        label: Brouillon
         widget: boolean
         default: false
         required: false            
@@ -139,39 +139,39 @@ collections:
         pattern: \d{4}
     create: true
     fields: 
-      - label: Contenu
-        name: body
+      - name: body
+        label: Contenu
         widget: markdown
         required: false
-      - label: Résumé
-        name: summary
+      - name: summary
+        label: Résumé
         widget: text
         required: false
-      - label: Titre de la page
-        name: title
+      - name: title
+        label: Titre de la page
         widget: string
-      - label: Date de publication
-        name: date
+      - name: date
+        label: Date de publication
         widget: datetime
         date_format: YYYY-MM-DD
         time_format: false
         format: DD-MM-YYYY
-      - label: Couverture
-        name: cover
+      - name: cover
+        label: Couverture
         widget: file
         required: false
-      - label: Publier
-        name: publish
+      - name: publish
+        label: Publier
         widget: boolean
         default: true
         required: false
-      - label: Mettre en avant
-        name: featured
+      - name: featured
+        label: Mettre en avant
         widget: boolean
         default: false
         required: false
-      - name: category
-        label: Catégories
+      - label: Catégories
+        name: category
         hint: Ajoutez de nouvelles catégories via le menu principal "Catégories"
         widget: relation
         required: false
@@ -179,17 +179,17 @@ collections:
         search_fields: ['name']
         value_field: "{{slug}}"
         display_fields: ['name']
-      - name: seo
-        label: SEO
+      - label: SEO
+        name: seo
         widget: object
         collapsed: true
         fields:
-        - label: Titre court
-          name: short_title
+        - name: short_title
+          label: Titre court
           widget: string
           required: false
-        - label: Description
-          name: description
+        - name: description
+          label: Description
           widget: text
           required: false
   - name: categories
@@ -249,85 +249,102 @@ collections:
             label: Description de la page
             widget: text
             required: false
-  - label: Configuration
-    name: configuration
-    description: Configuration globale du site
+  - name: configuration
+    label: Configuration
+    description: Configuration du site
     files: 
-      - label: Générale
-        name: global
+      - name: global
+        label: Générale
         file: configuration/global.json
         editor: 
           preview: false
         fields:
-          - label: Nom
-            name: name
+          - name: name
+            label: Nom
             widget: string
-          - label: URL
-            name: url
+          - name: url
+            label: URL
             widget: string
-          - label: Email
-            name: email
-            widget: string
-            required: false
-          - label: Facebook
-            name: facebook
+          - name: email
+            label: Email
             widget: string
             required: false
-          - label: Adresse
-            name: address
+          - name: facebook
+            label: Facebook
+            widget: string
+            required: false
+          - name: address
+            label: Adresse
             widget: object
             minimize_collapsed: true
             fields:
-              - label: Nom
-                name: name
+              - name: name
+                label: Nom
                 widget: string
                 required: false
-              - label: Rue
-                name: street
+              - name: street
+                label: Rue
                 widget: string
                 required: false
-              - label: Code postal
-                name: zipcode
+              - name: zipcode
+                label: Code postal
                 widget: string
                 required: false
-              - label: Ville
-                name: city
+              - name: city
+                label: Ville
                 widget: string
                 required: false
-      - label: Pied de page
-        name: footer
+      - name: home
+        label: Accueil
+        file: configuration/home.json
+        editor:
+          preview: false
+        fields:
+          - name: teaser
+            label: Teaser
+            widget: text
+          - name: sections
+            label: Sections
+            widget: object
+            collapsed: true
+            fields: 
+              - name: section_a
+                label: Section A
+                widget: markdown
+      - name: footer
+        label: Pied de page
         file: configuration/footer.json
         editor:
           preview: false
         fields:
-          - label: Liens
-            name: links
+          - name: links
+            label: Liens
             widget: list
             summary: '{{text}}'
             label_singular: Lien
             minimize_collapsed: true
             required: false
             fields: 
-              - label: Texte
-                name: text
+              - name: text
+                label: Texte
                 widget: string
-              - label: URL
-                name: url
+              - name: url
+                label: URL
                 widget: string
-          - label: Partenaires
-            name: partners
+          - name: partners
+            label: Partenaires
             widget: list
             summary: '{{name}}'
             label_singular: Partenaire
             minimize_collapsed: true
             required: false
             fields:
-              - label: Nom
-                name: name
+              - name: name
+                label: Nom
                 widget: string
-              - label: Logo
-                name: logo
+              - name: logo
+                label: Logo
                 widget: file
-              - label: URL
-                name: url
+              - name: url
+                label: URL
                 widget: string
