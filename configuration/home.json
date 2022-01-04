@@ -1,0 +1,6 @@
+{
+  "sections": {
+    "section_a": "Un peu de **contenu marqué**.\n\nQuelques liens vers des ressources :\n\n* [Exemple de lien vers une ressource](http://example.com/)\n* [L'encyclopédie Wikipédia](https://www.wikipedia.org/)"
+  },
+  "teaser": "Présentation du site."
+}
