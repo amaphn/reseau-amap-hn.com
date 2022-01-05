@@ -262,6 +262,10 @@ collections:
           - name: name
             label: Nom
             widget: string
+          - name: description
+            label: Description
+            widget: text
+            hint: Description SEO, 160 signes recommandé.
           - name: url
             label: URL
             widget: string
@@ -276,7 +280,7 @@ collections:
           - name: address
             label: Adresse
             widget: object
-            minimize_collapsed: true
+            collapsed: true
             fields:
               - name: name
                 label: Nom
@@ -296,7 +300,7 @@ collections:
                 required: false
       - name: home
         label: Accueil
-        file: configuration/home.md
+        file: pages/home.md
         editor:
           preview: false
         fields:
