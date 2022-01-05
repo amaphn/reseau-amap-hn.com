@@ -309,11 +309,12 @@ collections:
             widget: text
           - name: sections
             label: Sections
-            widget: object
+            widget: list
+            max: 3
             collapsed: true
             fields: 
-              - name: section_a
-                label: Section A
+              - name: section
+                label:  Section
                 widget: markdown
       - name: footer
         label: Pied de page
