@@ -306,7 +306,7 @@ collections:
         fields:
           - name: summary
             label: Présentation
-            widget: text
+            widget: markdown
           - name: sections
             label: Sections
             widget: list
