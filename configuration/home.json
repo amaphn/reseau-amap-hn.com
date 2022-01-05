@@ -2,5 +2,5 @@
   "sections": {
     "section_a": "Un peu de **contenu marqué**.\n\nQuelques liens vers des ressources :\n\n* [Exemple de lien vers une ressource](http://example.com/)\n* [L'encyclopédie Wikipédia](https://www.wikipedia.org/)"
   },
-  "teaser": "Présentation du site."
+  "teaser": "[WIP] Fichier de configuration en cours de création.\n\nAjouter :\n - gestion des contenus des 3 sections ;\n - gestion du contenu de la colonne complémentaire (colonne de droite) ;\n - configuration du nombre d'articles à afficher sur la page d'accueil."
 }
