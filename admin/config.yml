@@ -304,8 +304,8 @@ collections:
         editor:
           preview: false
         fields:
-          - name: teaser
-            label: Teaser
+          - name: summary
+            label: Présentation
             widget: text
           - name: sections
             label: Sections
