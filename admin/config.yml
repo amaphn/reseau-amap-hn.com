@@ -296,7 +296,7 @@ collections:
                 required: false
       - name: home
         label: Accueil
-        file: configuration/home.json
+        file: configuration/home.md
         editor:
           preview: false
         fields:
