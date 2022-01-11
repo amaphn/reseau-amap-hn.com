@@ -3,6 +3,7 @@ summary: Les AMAP soutiennent le mouvement...
 title: Nous voulons des coquelicots
 date: 10-12-2018
 cover: /content/posts/images/site-nous-voulons-des-coquelicots.jpg
+publish: true
 seo:
   description: Depuis la rentrée, l'appel "Nous voulons des coquelicots" réunit
     chaque premier vendredi du mois, les citoyen-ne-s demandant résolument
