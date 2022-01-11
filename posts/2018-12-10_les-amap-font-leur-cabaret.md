@@ -1,10 +1,12 @@
 ---
-title: « Les Amap font leur cabaret » 
+summary: "**samedi 26 janvier : dès 19  h «Les Amap font leur cabaret»**"
+title: « Les Amap font leur cabaret »
+date: 10-12-2018
 cover: bandeau-cabaret.jpg
-summary: "**samedi 26 janvier : dès 19  h «Les Amap font leur cabaret»**" 
 featured: true
 ---
-   
+# Les AMAP font leur cabaret
+
 **samedi 26 janvier : dès 19  h «Les Amap font leur cabaret»** 
 buffet dégustation avec une entrée pour le cabaret, deux  chanteuses Kdessa et la Band Bling Blang et un humoriste Phil Darwin tiendront la scène jusqu'à 23 h. Ouverture des portes à 19 h début du spectacle à 20 h. Les inscriptions et paiements se font à l’avance par chèque auprès du réseau. Utilité de prendre ses places à l’avance car cela risque de partir vite...
 
