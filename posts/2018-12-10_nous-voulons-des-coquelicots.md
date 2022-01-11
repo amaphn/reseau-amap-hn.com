@@ -2,7 +2,7 @@
 summary: Les AMAP soutiennent le mouvement...
 title: Nous voulons des coquelicots
 date: 10-12-2018
-cover: /content/posts/images/site-nous-voulons-des-coquelicots.jpg
+cover: /content/posts/images/affiche-cabaret.jpg
 ---
 Depuis la rentrée, l'appel "[Nous voulons des coquelicots](https://nousvoulonsdescoquelicots.org/)" réunit chaque premier vendredi du mois, les citoyen-ne-s demandant résolument l'interdiction de l'utilisation des pesticides de synthèse dans tous les secteurs agricoles.
 
