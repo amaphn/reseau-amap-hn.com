@@ -4,7 +4,7 @@ title: Nous voulons des coquelicots
 date: 10-12-2018
 cover: /content/posts/images/site-nous-voulons-des-coquelicots.jpg
 ---
-# Nous voulons des coquelicots
+# Les AMAPs répondent à l'appel des coquelicots
 
 Depuis la rentrée, l'appel "[Nous voulons des coquelicots](https://nousvoulonsdescoquelicots.org/)" réunit chaque premier vendredi du mois, les citoyen-ne-s demandant résolument l'interdiction de l'utilisation des pesticides de synthèse dans tous les secteurs agricoles.
 
