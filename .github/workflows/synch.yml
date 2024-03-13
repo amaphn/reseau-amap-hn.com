@@ -38,7 +38,8 @@ jobs:
           remote_path: ./test/
           sftp_only: true
           password: ${{ secrets.FTP_PASSWORD }}
-    # Personnalisatiob de l'aspect du workflow sur l'interface de Github
-    branding:
-      icon: upload-cloud
-      color: teal
+
+# Personnalisatiob de l'aspect du workflow sur l'interface de Github
+branding:
+icon: upload-cloud
+color: teal
