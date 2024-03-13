@@ -1,3 +1,5 @@
+Status du contenu : [![Synchronisation](https://github.com/amaphn/reseau-amap-hn.com/actions/workflows/synch.yml/badge.svg)](https://github.com/amaphn/reseau-amap-hn.com/actions/workflows/synch.yml)
+
 ## Contribution
 Vous êtes libre de contribuer au contenu du [site Régional du réseau des AMAP de Haute-Normandie](http://reseau-amap-hn.com/), la condition est d'avoir sur compte Github.com.
 
