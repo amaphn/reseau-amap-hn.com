@@ -1,5 +1,5 @@
 # Synchronisation du contenu avec le serveur distant.
-name: Synch
+name: Synchronisation
 # Contrôle du moement ou le workflow doit être éxectuté.
 on:
   # Déclenché le worflow lors d'un évenement push uniquement sur la branche "master"
@@ -31,7 +31,7 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           server: ${{ secrets.FTP_SERVER }}
           port: ${{ secrets.FTP_PORT || 22 }}
-          local_path: ./test.txt
-          remote_path: /test/
+          local_path: ./*
+          remote_path: /
           sftp_only: true
           password: ${{ secrets.FTP_PASSWORD }}
