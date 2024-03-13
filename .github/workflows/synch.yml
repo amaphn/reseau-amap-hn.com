@@ -1,8 +1,5 @@
 # Synchronisation du contenu avec le serveur distant.
 name: Synch
-branding:
-  icon: download
-  color: green
 # Contrôle du moement ou le workflow doit être éxectuté.
 on:
   # Déclenché le worflow lors d'un évenement push uniquement sur la branche "master"
@@ -15,6 +12,9 @@ on:
 jobs:
   SFTP_deploy_action:
     name: "SFTP deploy action"
+    branding:
+      icon: download
+      color: green
     # Choix du runner
     runs-on: unbuntu-latest
     # Étapes repésentant la séquence de tâches qui seront exécuté.
