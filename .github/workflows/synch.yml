@@ -3,8 +3,8 @@ name: Synchronisation
 # Contrôle du moement ou le workflow doit être éxectuté.
 on:
   # Déclenché le worflow lors d'un évenement push uniquement sur la branche "master"
-  push:
-    branches: ["master"]
+  # push:
+  #  branches: ["master"]
   # Autoriser à déclencher le workflow manuellement depuis le panneau "Actions"
   workflow_dispatch:
 
