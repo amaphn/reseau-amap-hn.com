@@ -18,11 +18,11 @@ jobs:
   # Étapes repésentant la séquence de tâches qui seront exécuté.
   steps:
     - name: Checkout
-    uses: actions/checkout@v3
-    with:
-      # Choix d'un branche spécifique
-      ref: master 
-    # Transférer les fichiers via SFTP
+      uses: actions/checkout@v3
+      with:
+        # Choix d'un branche spécifique
+        ref: master 
+        # Transférer les fichiers via SFTP
     - name: Transfert des fichiers
       # Documentation : 
       # https://github.com/wlixcc/SFTP-Deploy-Action/tree/master
