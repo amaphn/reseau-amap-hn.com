@@ -1,0 +1,43 @@
+# Synchronisation du contenu avec le serveur distant.
+name: Synch
+
+# Contrôle du moement ou le workflow doit être éxectuté.
+on:
+  # Déclenché le worflow lors d'un évenement push uniquement sur la branche "master"
+  push:
+    branches: ["master"]
+  # Autoriser à déclencher le workflow manuellement depuis le panneau "Actions"
+  workflow_dispatch:
+
+# Définition des jobs.
+jobs:
+  SFTP-deploy-action:
+    name: SFTP-deploy-action
+    # Choix du runner
+    runs-on: unbuntu-latest
+    # Étapes repésentant la séquence de tâches qui seront exécuté.
+    steps:
+      # Checks-outdu dépôt sous $GITUB_WORKSAPCE afin d'avoir accès aux fichiers
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          # Choix d'un branche spécifique
+          ref: master
+        
+      # Transférer les fichiers via SFTP
+      - name: Transfert des fichiers
+        # Documentation : 
+        # https://github.com/wlixcc/SFTP-Deploy-Action/tree/master
+        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
+        with: 
+          # Les variables d'actions doivent être définies via settings/secrets/actions
+          username: {{ secrets.FTP_USERNAME }}
+          server: ${{ secrets.FTP_SERVER }}
+          port: ${{ secrets.FTP_PORT == 22 }}
+          local_path: ./test.txt
+          sftp_only: true
+          password: ${{ secrets.FTP_PASSWORD }}
+    # Personnalisatiob de l'aspect du workflow sur l'interface de Github
+    branding:
+      icon: upload-cloud
+      color: teal
