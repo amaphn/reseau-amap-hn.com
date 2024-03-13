@@ -12,9 +12,6 @@ on:
 jobs:
   SFTP_deploy_action:
     name: "SFTP deploy action"
-    branding:
-      icon: download
-      color: green
     # Choix du runner
     runs-on: unbuntu-latest
     # Étapes repésentant la séquence de tâches qui seront exécuté.
