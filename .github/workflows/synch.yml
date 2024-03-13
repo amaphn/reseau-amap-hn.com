@@ -12,27 +12,27 @@ on:
 # Définition des jobs.
 jobs:
   SFTP_deploy_action:
-  name: "SFTP deploy action"
-  # Choix du runner
-  runs-on: unbuntu-latest
-  # Étapes repésentant la séquence de tâches qui seront exécuté.
-  steps:
-    - name: Checkout
-      uses: actions/checkout@v3
-      with:
-        # Choix d'un branche spécifique
-        ref: master 
-        # Transférer les fichiers via SFTP
-    - name: Transfert des fichiers
-      # Documentation : 
-      # https://github.com/wlixcc/SFTP-Deploy-Action/tree/master
-      uses: wlixcc/SFTP-Deploy-Action@v1.2.4
-      with: 
-        # Les variables d'actions doivent être définies via settings/secrets/actions
-        username: {{ secrets.FTP_USERNAME }}
-        server: ${{ secrets.FTP_SERVER }}
-        port: ${{ secrets.FTP_PORT == 22 }}
-        local_path: ./test.txt
-        remote_path: ./test/
-        sftp_only: true
-        password: ${{ secrets.FTP_PASSWORD }}
+    name: "SFTP deploy action"
+    # Choix du runner
+    runs-on: unbuntu-latest
+    # Étapes repésentant la séquence de tâches qui seront exécuté.
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          # Choix d'un branche spécifique
+          ref: master 
+          # Transférer les fichiers via SFTP
+      - name: Transfert des fichiers
+        # Documentation : 
+        # https://github.com/wlixcc/SFTP-Deploy-Action/tree/master
+        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
+        with: 
+          # Les variables d'actions doivent être définies via settings/secrets/actions
+          username: {{ secrets.FTP_USERNAME }}
+          server: ${{ secrets.FTP_SERVER }}
+          port: ${{ secrets.FTP_PORT == 22 }}
+          local_path: ./test.txt
+          remote_path: ./test/
+          sftp_only: true
+          password: ${{ secrets.FTP_PASSWORD }}
