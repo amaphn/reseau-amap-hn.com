@@ -2,7 +2,7 @@
 # @todo : tester égalemenent cette action https://github.com/milanmk/actions-file-deployer/tree/master
 
 name: Synchronisation
-# Contrôle du moement ou le workflow doit être éxectuté.
+# Contrôle du moment ou le workflow doit être éxectuté.
 on:
   # Déclenché le worflow lors d'un évenement push uniquement sur la branche "master"
   # push:
