@@ -1,4 +1,4 @@
-## Status
+## Statut
  [![Synchronisation](https://github.com/amaphn/reseau-amap-hn.com/actions/workflows/synch.yml/badge.svg)](https://github.com/amaphn/reseau-amap-hn.com/actions/workflows/synch.yml)
 
 ## Contribution
