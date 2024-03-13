@@ -35,6 +35,7 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           port: ${{ secrets.FTP_PORT == 22 }}
           local_path: ./test.txt
+          remote_path: ./test/
           sftp_only: true
           password: ${{ secrets.FTP_PASSWORD }}
     # Personnalisatiob de l'aspect du workflow sur l'interface de Github
