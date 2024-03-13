@@ -13,7 +13,7 @@ jobs:
   SFTP_deploy_action:
     name: "SFTP deploy action"
     # Choix du runner
-    runs-on: unbuntu-latest
+    runs-on: ubuntu-latest
     # Étapes repésentant la séquence de tâches qui seront exécuté.
     steps:
       - name: Checkout
