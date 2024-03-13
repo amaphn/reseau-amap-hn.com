@@ -11,7 +11,7 @@ on:
 
 # Définition des jobs.
 jobs:
-  SFTP-deploy-action:
+  SFTP_deploy_action:
   name: SFTP-deploy-action
   # Choix du runner
   runs-on: unbuntu-latest
