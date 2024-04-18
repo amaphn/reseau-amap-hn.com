@@ -36,7 +36,8 @@ Ils doivent toujours ce situer au début du fichier avant le marqueur `----`. Il
 | `Author`        | texte	cout            | Nom de l'auteur de l'article |
 | `Cover`         | nom de fichier image | Image de couverture de l'article |
 | `Excerpt`       | texte long           | Résumé de l'article 	|
-| `Published`			| boolean		| Indique que l'article ne doit pas être affiché sur le site |
+| `Featured`  | boolean | Mise en "Une" de l'article |
+| ~~`Published`~~			| boolean		| ~~Indique que l'article ne doit pas être affiché sur le site~~ |
 | `License`		| url					| Nom et adresse de la license sous laquelle est publié l'article |
 | `Slug`			| texte format url		| Adresse de remplcacement de l'article |
 
@@ -47,8 +48,8 @@ Ils doivent toujours ce situer au début du fichier avant le marqueur `----`. Il
 	Date: 2013/06/05 : 06:44:19
 	Author: [Le Réseau des AMAP de Haute&#x2011;Normandie](contact@reseau-amap-normandie.com)
 	Cover: la-ferme-des-bouillons.jpg
+ 	Featured: true
 	Excerpt: Le Réseau des Amap de Haute-Normandie ne peut que soutenir l’Association de Protection de la Ferme des Bouillons à Mt St Aignan. En effet, les Amap ont dans leurs fondements même la préservation d’une agriculture de proximité d’où leur nom Association de Maintien de l’Agriculture Paysanne.
-	Published: false
 	Credit: [Creative commons BY-SA](http://creativecommons.org/licenses/by-sa/3.0/deed.fr)
 	Slug: protegeons-la-ferme-des-bouillons
 	----
