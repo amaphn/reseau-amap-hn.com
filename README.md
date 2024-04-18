@@ -48,7 +48,7 @@ Ils doivent toujours ce situer au début du fichier avant le marqueur `----`. Il
 	Author: [Le Réseau des AMAP de Haute&#x2011;Normandie](contact@reseau-amap-normandie.com)
 	Cover: la-ferme-des-bouillons.jpg
 	Excerpt: Le Réseau des Amap de Haute-Normandie ne peut que soutenir l’Association de Protection de la Ferme des Bouillons à Mt St Aignan. En effet, les Amap ont dans leurs fondements même la préservation d’une agriculture de proximité d’où leur nom Association de Maintien de l’Agriculture Paysanne.
-	Draft: true
+	Published: false
 	Credit: [Creative commons BY-SA](http://creativecommons.org/licenses/by-sa/3.0/deed.fr)
 	Slug: protegeons-la-ferme-des-bouillons
 	----
