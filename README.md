@@ -28,18 +28,17 @@ Ils doivent toujours ce situer au début du fichier avant le marqueur `----`. Il
 
 **Liste des paramètres**
 
-Paramètre | Format | Description
-------------- | -------------------- | ---- 
-`Title`         | texte moyen          | Paramètre obligatoire - Titre de l'article
-`Short_title`   | texte court          | Titre court de l'article, exploiter notamment pour l'affichage sous forme de liste des articles
-`Date`          | JJ/MM/AAAA HH:MM:SS  | Date de publication de l'article
-`Author`        | texte	cout            | Nom de l'auteur de l'article
-`Cover`         | nom de fichier image | Image de couverture de l'article
-`Excerpt`       | texte long           | Résumé de l'article 	
-
-`Published`			| boolean		| Indique que l'article ne doit pas être affiché sur le site
-`License`		| url					| Nom et adresse de la license sous laquelle est publié l'article
-`Slug`			| texte format url		| Adresse de remplcacement de l'article
+| Paramètre | Format | Description
+| ------------- | -------------------- | ---- |
+| `Title`         | texte moyen          | Paramètre obligatoire - Titre de l'article |
+| `Short_title`   | texte court          | Titre court de l'article, exploiter notamment pour l'affichage sous forme de liste des articles |
+| `Date`          | JJ/MM/AAAA HH:MM:SS  | Date de publication de l'article |
+| `Author`        | texte	cout            | Nom de l'auteur de l'article |
+| `Cover`         | nom de fichier image | Image de couverture de l'article |
+| `Excerpt`       | texte long           | Résumé de l'article 	|
+| `Published`			| boolean		| Indique que l'article ne doit pas être affiché sur le site |
+| `License`		| url					| Nom et adresse de la license sous laquelle est publié l'article |
+| `Slug`			| texte format url		| Adresse de remplcacement de l'article |
 
 **Exemple**
 
